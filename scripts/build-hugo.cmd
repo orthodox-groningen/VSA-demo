@@ -16,13 +16,19 @@ if errorlevel 1 (
   exit /b 1
 )
 
-echo [1/4] Validate content-source
+echo [1/5] Sync zondag bronbestanden
+call scripts\sync-bron-zondagen.cmd
+if errorlevel 1 exit /b 1
+echo OK
+echo.
+
+echo [2/5] Validate content-source
 "%PY%" -m vsa.cli validate content-source
 if errorlevel 1 exit /b 1
 echo OK
 echo.
 
-echo [2/4] Generate Markdown + SVG
+echo [3/5] Generate Markdown + SVG + MusicXML
 if exist generated\content rmdir /s /q generated\content
 if exist static\vsa rmdir /s /q static\vsa
 "%PY%" -m vsa.cli build-markdown ^
@@ -31,16 +37,20 @@ if exist static\vsa rmdir /s /q static\vsa
   static\vsa ^
   --output-mode shortcode
 if errorlevel 1 exit /b 1
+"%PY%" -m vsa.cli musicxml ^
+  content-source ^
+  static\vsa\mxl
+if errorlevel 1 exit /b 1
 echo OK
 echo.
 
-echo [3/4] Update navigation placeholders
+echo [4/5] Update navigation placeholders
 "%PY%" scripts\update-nav-placeholders.py generated\content
 if errorlevel 1 exit /b 1
 echo OK
 echo.
 
-echo [4/4] Build Hugo site
+echo [5/5] Build Hugo site
 if exist generated\site rmdir /s /q generated\site
 hugo ^
   --source . ^

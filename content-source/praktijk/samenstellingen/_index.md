@@ -1,8 +1,8 @@
 ---
-title: "Hemelum-eigen"
+title: "Samenstellingen"
 ---
 
-{{< navbuttons 
+{{< navbuttons
     "Home       | ../../"
     "Omhoog     | ../"
     "Weekdagen  | ../weekdagen/"
@@ -14,6 +14,6 @@ title: "Hemelum-eigen"
 
 ---
 
-<!-- VSA-NAV:PAGES-HERE  -->
+<!-- VSA-NAV:PAGES-HERE -->
 
---- 
+---

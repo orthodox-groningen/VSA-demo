@@ -1,0 +1,12 @@
+# Parochie-lokaal manifest — uitvoeringsvorm liturgikon (weekdagen 3e antifoon)
+uitvoeringsvorm-id: liturgikon
+herkomst:
+  author: Liturgikon
+  reference: "Liturgikon, p. 175"
+
+aliases:
+  - { text: "Liturgikon", lang: nl }
+
+representaties:
+  - representatie-id: liturgikon
+    file: repr/liturgikon.vsa

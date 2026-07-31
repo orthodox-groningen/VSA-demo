@@ -1,0 +1,8 @@
+# Test-fixture — variant-niveau (glossary-voorbeeld Касторский)
+zangstuk-id: cherubijnenhymne
+variant-id: kastorski
+title: "Cherubijnenhymne (Kastorski)"
+
+aliases:
+  - { text: "Касторский", lang: ru }
+  - { text: "Kastorski", lang: en }

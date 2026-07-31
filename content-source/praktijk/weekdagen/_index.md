@@ -9,10 +9,14 @@ title: "Weekdagen"
     "Zondagen   | ../zondagen/"
     "Feesteigen | ../feesteigen/"
     "Hemelum    | ../hemelum-eigen/"
+    "Samenstellingen | ../samenstellingen/"
 >}}
 
 ---
 
+- [Antifonen - weekdagen (catalogus-demo)](antifonen-weekdagen-catalogus/)
+- [Antifonen - weekdagen (Liturgikon)](antifonen/)
+- [Antifonen - weekdagen (Hemelum)](antifonen-hemelum/)
 - [Prokimena - weekdagen (Liturgikon)](prokimena-weekdagen/)
 
 ---

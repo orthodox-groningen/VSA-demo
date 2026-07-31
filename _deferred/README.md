@@ -1,11 +1,9 @@
-# Uitgesteld tot na de eerste Pages-publicatie
+# Uitgesteld
 
-Onderdelen die **niet** in de minimale build-pipeline zitten:
+Onderdelen die **nog niet** in de Hugo-pipeline zitten:
 
-| Map | Inhoud |
-| --- | ------ |
+| Map     | Inhoud                                      |
+| ------- | ------------------------------------------- |
 | `tev2/` | TEv2-config, glossaries, terminologie-stubs |
-| `content-needs-bron/` | Pagina's met `:::include` naar bron/catalogus of ontbrekende gesyncte `.vsa` |
-| `content-pending/` | Zelfde klasse content, geparkeerd voor herintegratie |
 
-Herintegratie later: bron-checkout + sync/catalogus in CI, daarna content terug naar `content-source/`.
+Overige content (samenstellingen, antifonen, zondag-toon-*, export-demo, `lokaal/`) zit weer in `content-source/`.

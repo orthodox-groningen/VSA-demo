@@ -3,6 +3,7 @@ generated/
 public/
 resources/
 static/vsa/
+static/coria/
 
 # Hugo lock
 .hugo_build.lock
@@ -15,8 +16,14 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 
-# CI / local bron checkout
+# CI / local bron + tooling checkouts
 vendor/
+
+# Zondag-zangstukken: gesynchroniseerd uit orthodox-groningen/bron
+content-source/praktijk/zondagen/tropaar-zondag-toon-*.vsa
+content-source/praktijk/zondagen/kondak-zondag-toon-*.vsa
+content-source/praktijk/zondagen/tropaarmelodie-toon-*.jpg
+content-source/praktijk/zondagen/*.coria.html
 
 # Editor / OS
 .DS_Store

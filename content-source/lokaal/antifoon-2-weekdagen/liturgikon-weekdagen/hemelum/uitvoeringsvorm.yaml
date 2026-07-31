@@ -1,0 +1,13 @@
+# Parochie-lokaal manifest — uitvoeringsvorm-niveau
+uitvoeringsvorm-id: hemelum
+based_on: liturgikon
+herkomst:
+  author: "Parochie Hemelum (Liturgikon-praktijk)"
+  reference: "Liturgikon, pp. 174, 270-271"
+
+aliases:
+  - { text: "Hemelum", lang: nl }
+
+representaties:
+  - representatie-id: hemelum
+    file: repr/hemelum.vsa

@@ -1,0 +1,8 @@
+# Test-fixture — uitvoeringsvorm-niveau (glossary-voorbeeld Groningen)
+uitvoeringsvorm-id: groningen
+aliases:
+  - { text: "Groningen", lang: nl }
+
+representaties:
+  - representatie-id: groningen-vsa
+    file: repr/groningen.vsa
