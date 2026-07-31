@@ -1,0 +1,4 @@
+{{- $src := .Get "src" -}}
+{{- $src = replaceRE "^/" "" $src -}}
+{{- $label := or (.Get "label") "Oefenen in Coria" -}}
+<p class="coria-play"><a href="{{ $src | relURL }}" target="_blank" rel="noopener noreferrer">{{ $label }}</a></p>

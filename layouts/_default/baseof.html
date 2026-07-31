@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }}</title>
+  <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+</head>
+
+<body>
+  <header class="site-header">
+    <nav class="site-nav" aria-label="Hoofdnavigatie">
+      <a href="{{ "" | relURL }}">Home</a>
+      <a href="{{ "glossarium/" | relURL }}">Glossarium</a>
+      <a href="{{ "voorbeelden/" | relURL }}">Voorbeelden</a>
+      <a href="{{ "praktijk/" | relURL }}">Praktijk</a>
+    </nav>
+  </header>
+
+  <main class="page">
+    {{ block "main" . }}{{ end }}
+  </main>
+</body>
+</html>

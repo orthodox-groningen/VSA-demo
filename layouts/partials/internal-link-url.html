@@ -1,0 +1,14 @@
+{{- $dest := . -}}
+{{- $passThrough := or (hasPrefix $dest "http") (hasPrefix $dest "#") (hasPrefix $dest "mailto:") (hasPrefix $dest "tel:") (hasPrefix $dest "../") (hasPrefix $dest "./") -}}
+{{- if $passThrough -}}
+{{- $dest -}}
+{{- else -}}
+{{- $rootSections := slice "kerkmuziek-tradities" "liturgikon-notatie" "zangstuk-identificatie" "voorbeelden" "praktijk" "zondag" -}}
+{{- $clean := strings.TrimPrefix "/" $dest -}}
+{{- $firstSegment := index (split (strings.TrimSuffix "/" $clean) "/") 0 -}}
+{{- if in $rootSections $firstSegment -}}
+{{- $dest | relURL -}}
+{{- else -}}
+{{- $dest -}}
+{{- end -}}
+{{- end -}}

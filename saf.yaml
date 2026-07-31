@@ -1,0 +1,32 @@
+scope:
+  scopetag: vsa-demo
+  scopedir: https://github.com/orthodox-groningen/VSA-demo/tree/main
+  curatedir: tev2-terminologie
+  glossarydir: tev2-glossaries
+  defaultvsn: vsa-demo
+  defaulttype: concept
+  website: http://localhost:1313/
+  navpath: /tev2-terminologie
+  navid: slug
+  license: ./LICENSE
+  mappings:
+    trrt:
+      converters:
+        html-hovertext-link: '<a href="{{localize entry.navurl}}{{#if ref.trait}}#{{ref.trait}}{{/if}}" title="{{#if entry.hoverText}}{{entry.hoverText}}{{else}}{{#if entry.glossaryTerm}}{{entry.glossaryTerm}}{{else}}{{capFirst entry.term}}{{/if}}: {{noRefs entry.glossaryText type="markdown"}}{{/if}}">{{ref.showtext}}</a>'
+
+scopes:
+  - scopetag: bron
+    scopedir: https://github.com/orthodox-groningen/bron/tree/main/docs
+  - scopetag: vsa-tooling
+    scopedir: https://github.com/orthodox-groningen/VSA-tooling/tree/main/docs
+
+
+versions:
+  - vsntag: vsa-demo
+    altvsntags:
+      - latest
+    termselection:
+      # - "*@bron"
+      # - "*@vsa-tooling"
+      - "*"
+      - "-excludeFromMRG[yes]"

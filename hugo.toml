@@ -1,0 +1,10 @@
+baseURL = "/"
+languageCode = "nl"
+title = "VSA Demo"
+
+disableKinds = ["taxonomy", "term"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

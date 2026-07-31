@@ -1,0 +1,4 @@
+{{- $src := .Destination -}}
+<img src="{{ partial "internal-link-url.html" $src }}"
+     alt="{{ .Text }}"
+     {{- with .Title }} title="{{ . }}"{{ end -}}>

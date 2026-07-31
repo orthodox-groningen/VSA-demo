@@ -1,0 +1,454 @@
+# LEGACY — geen sjabloon of compositie-schema.
+# Ruwe VOKN-koormap-inventarisatie voor de hugo-demo.
+# Nieuw werk: markdown-sjablonen (sjablonen/goddelijke-liturgie-groningen.md).
+# Zie bron: docs/manuals/catalogus/sjabloon-schrijven.md
+#      bron: docs/plans/samenvatting-project.md
+
+- type: item
+  title: "(1) Vredeslitanie"
+  zangstuk: "Vredeslitanie"
+  file: "002-(1a) vredeslitanie"
+  uitvoeringsvorm: "VOKN-1a"
+
+- type: item
+  title: "(2) 1e Antifoon"
+  zangstuk: "1e Antifoon"
+  file: "003-(2) 1e antifoon"
+  uitvoeringsvorm: "VOKN-2"
+
+- type: item
+  title: "(3) 1e Kleine Litanie"
+  zangstuk: "1e Kleine Litanie"
+  file: "004-(3) 1e kleine litanie"
+  uitvoeringsvorm: "VOKN-3"
+
+- type: item
+  title: "(4) 2e Antifoon"
+  zangstuk: "2e Antifoon"
+  file: "005-(4) 2e antifoon"
+  uitvoeringsvorm: "VOKN-4"
+
+- type: item
+  title: "(5) Eniggeboren Zoon"
+  zangstuk: "Eniggeboren Zoon"
+  file: "006-(5a) eniggeboren zoon"
+  uitvoeringsvorm: "VOKN-5a"
+
+- type: item
+  title: "2e Kleine Litanie"
+  zangstuk: "2e Kleine Litanie"
+  file: "007-(2e kleine litanie) 2e kleine litanie"
+  uitvoeringsvorm: "VOKN-2e kleine litanie"
+
+- type: item
+  title: "(6) 3e Antifoon"
+  zangstuk: "3e Antifoon"
+  file: "008-(6b) zaligsprekingen"
+  uitvoeringsvorm: "VOKN-6b"
+
+- type: item
+  title: "Kleine intocht"
+  zangstuk: "Kleine intocht"
+  file: "009-(7) kleine intocht"
+  uitvoeringsvorm: "VOKN-7"
+
+- type: item
+  title: "Troparion en Kondakion (toon-1)"
+  zangstuk: "Troparion"
+    - variant: "Zondag (Toon 1)"
+  zangstuk: "Kondakion"
+    - variant: "Zondag (Toon 1)"
+  file: "010-troparion-kondakion-toon-1"
+
+- type: item
+  title: "Troparion en Kondakion (toon-2)"
+  zangstuk: "Troparion"
+    - variant: "Zondag (Toon 2)"
+  zangstuk: "Kondakion"
+    - variant: "Zondag (Toon 2)"
+  file: "011-troparion-kondakion-toon-2"
+
+- type: item
+  title: "Troparion en Kondakion (toon-3)"
+  zangstuk: "Troparion"
+    - variant: "Zondag (Toon 3)"
+  zangstuk: "Kondakion"
+    - variant: "Zondag (Toon 3)"
+  file: "012-troparion-kondakion-toon-3"
+
+- type: item
+  title: "Troparion en Kondakion (toon-4)"
+  zangstuk: "Troparion"
+    - variant: "Zondag (Toon 4)"
+  zangstuk: "Kondakion"
+    - variant: "Zondag (Toon 4)"
+  file: "013-troparion-kondakion-toon-4"
+
+- type: item
+  title: "Troparion en Kondakion (toon-5)"
+  zangstuk: "Troparion"
+    - variant: "Zondag (Toon 5)"
+  zangstuk: "Kondakion"
+    - variant: "Zondag (Toon 5)"
+  file: "014-troparion-kondakion-toon-5"
+
+- type: item
+  title: "Troparion en Kondakion (toon-6)"
+  zangstuk: "Troparion"
+    - variant: "Zondag (Toon 6)"
+  zangstuk: "Kondakion"
+    - variant: "Zondag (Toon 6)"
+  file: "015-troparion-kondakion-toon-6"
+
+- type: item
+  title: "Troparion en Kondakion (toon-7)"
+  zangstuk: "Troparion"
+    - variant: "Zondag (Toon 7)"
+  zangstuk: "Kondakion"
+    - variant: "Zondag (Toon 7)"
+  file: "016-troparion-kondakion-toon-7"
+
+- type: item
+  title: "Troparion en Kondakion (toon-8)"
+  zangstuk: "Troparion"
+    - variant: "Zondag (Toon 8)"
+  zangstuk: "Kondakion"
+    - variant: "Zondag (Toon 8)"
+  file: "017-troparion-kondakion-toon-8"
+
+- type: item
+  title: "Bescherming der Christenen (toon 6, stichier melodie)"
+  zangstuk: "Kondak Moeder Gods"
+    - alias: "Bescherming der Christenen"
+  file: "018-Toon 6 (stichier melodie)"
+
+- type: item
+  title: "Ustav-liturgie met diaken"
+  zangstuk: "Ustav-liturgie met diaken"
+  file: "019-ustav-liturgie met diakon"
+  uitvoeringsvorm: "Liturgikon"
+
+- type: item
+  title: "(8) Trisagion"
+  zangstuk: "Trisagion"
+  file: "020-(8a) trisagion"
+  uitvoeringsvorm: "VOKN-8a"
+
+- type: group
+  title: "(9) Prokimens en Alleluja's"
+  zangstuk: "Prokimens en Alleluja's"
+  items:
+
+    - type: group
+      title: "Toon 1"
+      zangstuk: "Toon 1"
+      items:
+
+        - type: item
+          title: "Prokimen van de zondag (audio)"
+          zangstuk: "Prokimen"
+          - variant: "Zondag (Toon 1)"
+          file: "021-prokimen-zondag-toon-1"
+
+        - type: item
+          title: "Alleluja (audio)"
+          zangstuk: "Alleluja"
+          - variant: "Zondag (Toon 1)"
+          file: "021-alleluja-toon-1"
+
+    - type: group
+      title: "Toon 2"
+      zangstuk: "Toon 2"
+      items:
+
+        - type: item
+          title: "Prokimen van de zondag (audio)"
+          zangstuk: "Prokimen"
+          - variant: "Zondag (Toon 2)"
+          file: "022-prokimen-zondag-toon-2"
+
+        - type: item
+          title: "Alleluja (audio)"
+          zangstuk: "Alleluja"
+          - variant: "Zondag (Toon 2)"
+          file: "022-alleluja-toon-2"
+
+    - type: group
+      title: "Toon 3"
+      zangstuk: "Toon 3"
+      items:
+
+        - type: item
+          title: "Prokimen en Alleluja (bladmuziek)"
+          zangstuk: "Prokimen"
+          - variant: "Zondag (Toon 3)"
+          file: "023-prokimen-alleluja-toon-3"
+
+        - type: item
+          title: "Prokimen van de zondag (audio)"
+          zangstuk: "Prokimen"
+          - variant: "Zondag (Toon 3)"
+          file: "023-prokimen-zondag-toon-3"
+
+        - type: item
+          title: "Alleluja (audio)"
+          zangstuk: "Alleluja"
+          - variant: "Zondag (Toon 3)"
+          file: "023-alleluja-toon-3"
+
+    - type: group
+      title: "Toon 4"
+      zangstuk: "Toon 4"
+      items:
+
+        - type: item
+          title: "Prokimen van de zondag (audio)"
+          zangstuk: "Prokimen"
+          - variant: "Zondag (Toon 4)"
+          file: "024-prokimen-zondag-toon-4"
+
+        - type: item
+          title: "Alleluja (audio)"
+          zangstuk: "Alleluja"
+          - variant: "Zondag (Toon 4)"
+          file: "024-alleluja-toon-4"
+
+    - type: group
+      title: "Toon 5"
+      zangstuk: "Toon 5"
+      items:
+
+        - type: item
+          title: "Prokimen van de zondag (audio)"
+          zangstuk: "Prokimen"
+          - variant: "Zondag (Toon 5)"
+          file: "025-prokimen-zondag-toon-5"
+
+        - type: item
+          title: "Alleluja (audio)"
+          zangstuk: "Alleluja"
+          - variant: "Zondag (Toon 5)"
+          file: "025-alleluja-toon-5"
+
+    - type: group
+      title: "Toon 6"
+      zangstuk: "Toon 6"
+      items:
+
+        - type: item
+          title: "Prokimen van de zondag (audio)"
+          zangstuk: "Prokimen"
+          - variant: "Zondag (Toon 6)"
+          file: "026-prokimen-zondag-toon-6"
+
+        - type: item
+          title: "Alleluja (audio)"
+          zangstuk: "Alleluja"
+          - variant: "Zondag (Toon 6)"
+          file: "026-alleluja-toon-6"
+
+    - type: group
+      title: "Toon 7"
+      zangstuk: "Toon 7"
+      items:
+
+        - type: item
+          title: "Prokimen van de zondag (audio)"
+          zangstuk: "Prokimen"
+          - variant: "Zondag (Toon 7)"
+          file: "027-prokimen-zondag-toon-7"
+
+        - type: item
+          title: "Alleluja (audio)"
+          zangstuk: "Alleluja"
+          - variant: "Zondag (Toon 7)"
+          file: "027-alleluja-toon-7"
+
+    - type: group
+      title: "Toon 8"
+      zangstuk: "Toon 8"
+      items:
+
+        - type: item
+          title: "Prokimen van de zondag (audio)"
+          zangstuk: "Prokimen"
+          - variant: "Zondag (Toon 8)"
+          file: "028-prokimen-zondag-toon-8"
+
+        - type: item
+          title: "Alleluja (audio)"
+          zangstuk: "Alleluja"
+          - variant: "Zondag (Toon 8)"
+          file: "028-alleluja-toon-8"
+
+- type: item
+  title: "(10) Evangelielezing"
+  zangstuk: "Evangelielezing"
+  file: "029-(10) evangelielezing"
+  uitvoeringsvorm: "VOKN-10"
+
+- type: item
+  title: "(11) Dringende litanie"
+  zangstuk: "Dringende litanie"
+  file: "030-(11) dringende litanie"
+  uitvoeringsvorm: "VOKN-11"
+
+- type: item
+  title: "(12) Ontslapenenlitanie"
+  zangstuk: "Ontslapenenlitanie"
+  file: "031-(12a) ontslapenenlitanie"
+  uitvoeringsvorm: "VOKN-12a"
+
+- type: item
+  title: "(13) Katechumenenlitanie"
+  zangstuk: "Katechumenenlitanie"
+  file: "032-(13) katechumenenlitanie"
+  uitvoeringsvorm: "VOKN-13"
+
+- type: item
+  title: "(14) Gelovigenlitanie"
+  zangstuk: "Gelovigenlitanie"
+  file: "033-(14) gelovigenlitanie"
+  uitvoeringsvorm: "VOKN-14"
+
+- type: group
+  title: "(15) Cherubijnen hymnes"
+  zangstuk: "Cherubijnen hymne"
+  items:
+
+    - type: item
+      title: "(15c) Cherubijnen hymne (NL)"
+      file: "034-(15c) cherubijnen hymne (kastorski - nl)"
+      variant: "kastorski-NL"
+      uitvoeringsvorm: "VOKN-15c"
+
+    - type: item
+      title: "(15c) Cherubijnen hymne (KSL)"
+      file: "034-(15c) cherubijnen hymne (kastorski - ksl)"
+      variant: "kastorski-KSL"
+      uitvoeringsvorm: "VOKN-15c"
+
+    - type: link
+      title: "Cherubijnen hymne (Nana)"
+      variant: "Tschikinashvili"
+      url: "https://www.universaledition.com/en/Works/Cherubim/P0213837"
+
+- type: item
+  title: "(16) Vragende Litanie"
+  zangstuk: "Vragende Litanie"
+  file: "035-(16) vragende litanie"
+  uitvoeringsvorm: "VOKN-16"
+
+- type: item
+  title: "(17) Vredeswens/Vredeskus"
+  zangstuk: "Vredeswens/Vredeskus"
+  file: "036-(17) vredeswens-vredeskus"
+  uitvoeringsvorm: "VOKN-17"
+
+- type: item
+  title: "(18) Geloofsbelijdenis"
+  zangstuk: "Geloofsbelijdenis"
+  file: "037-(18) geloofsbelijdenis"
+  uitvoeringsvorm: "VOKN-18"
+
+- type: group
+  title: "(19) Eucharistische Kanon"
+  zangstuk: "Eucharistische Kanon"
+  items:
+
+    - type: item
+      title: "(19) Eucharistische Kanon"
+      variant: "VOKN"
+      file: "038-(19) eucharistische kanon"
+      uitvoeringsvorm: "VOKN-19"
+
+    - type: item
+      title: "a- de engel heeft geroepen (balakirev)"
+      variant: "balakirev"
+      file: "038.a-de engel heeft geroepen (balakirev)"
+      uitvoeringsvorm: "VOKN-19a"
+
+    - type: item
+      title: "b- over u verheugt zich - toon 8 (griekse melodie)"
+      variant: "griekse melodie - toon 8"
+        alias: "griekse melodie"
+      file: "038.b-over u verheugt zich - toon 8 (griekse melodie)"
+      uitvoeringsvorm: "VOKN-19b"
+
+- type: item
+  title: "(20) Waarlijk het is waardig/In waarheid"
+  zangstuk: "Waarlijk het is waardig
+  - alias: "In waarheid het is waardig"
+  file: "039-(20) waarlijk het is waardig in waarheid"
+  uitvoeringsvorm: "VOKN-20 waarlijk het is waardig"
+
+- type: item
+  title: "(21) En allen"
+  zangstuk: "En allen"
+  file: "040-(21) en allen"
+  uitvoeringsvorm: "VOKN-21"
+
+- type: item
+  title: "(22) Vragende Litanie"
+  zangstuk: "Vragende Litanie"
+  file: "041-(22) vragende litanie"
+  uitvoeringsvorm: "VOKN-22"
+
+- type: group
+  title: "(23) Onze Vader (incl. 'en met Uw Geest')"
+  zangstuk: "Onze Vader"
+  items:
+
+    - type: item
+      title: "Onze Vader (rimski-korsakov)"
+      variant: "rimski-korsakov"
+      file: "042-(23) onze vader (rimski-korsakov)"
+      uitvoeringsvorm: "VOKN-23"
+
+    - type: link
+      title: "Onze Vader (Nana)"
+      variant: "Tschikinashvili"
+      url: "https://www.universaledition.com/en/Works/Our-Father/P0213839"
+
+    - type: item
+      title: "Vredeswens"
+      zangstuk: "Vredeswens"
+      file: "043-vredeswens"
+
+- type: item
+  title: "(24) Eén is heilig en (25) Communievers (zondag)"
+  zangstuk: "Eén is heilig"
+  file: "044-(24) een is heilig"
+  uitvoeringsvorm: "VOKN-24"
+
+- type: item
+  title: "(25) Communievers (zondag)"
+  zangstuk: "Communievers"
+  variant: "zondag"
+  file: "044-(25) Communievers (zondag)"
+  uitvoeringsvorm: "VOKN-25"
+
+- type: item
+  title: "(26) Gezegend Hij die komt"
+  zangstuk: "Gezegend Hij die komt"
+  file: "045-(26) gezegend hij die komt"
+  uitvoeringsvorm: "VOKN-26"
+
+- type: item
+  title: "(27) Ontvangt het Lichaam van Christus"
+  zangstuk: "Ontvangt het Lichaam van Christus"
+  variant: "NL-KSL-GE"
+  file: "046-(27) ontvangt het lichaam van christus"
+  uitvoeringsvorm: "VOKN-27"
+
+- type: item
+  title: "(28) Wij hebben het ware licht aanschouwd"
+  zangstuk: "Wij hebben het ware licht aanschouwd"
+  file: "047-(28) wij hebben het ware licht aanschouwd"
+  uitvoeringsvorm: "VOKN-28"
+
+- type: item
+  title: "(29) De Naam des Heren"
+  zangstuk: "De Naam des Heren"
+  file: "048-(29) de naam des heren"
+  uitvoeringsvorm: "VOKN-29"

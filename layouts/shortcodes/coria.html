@@ -1,0 +1,6 @@
+{{- $src := .Get "src" -}}
+{{- $src = replaceRE "^/" "" $src -}}
+{{- $label := or (.Get "label") "Oefenen in Coria" -}}
+{{- $absolute := absURL $src -}}
+{{- $coria := printf "https://coria.nl/play_from_url?back=coria.nl&url=%s" (urlquery $absolute) -}}
+<p class="coria-play"><a href="{{ $coria }}" target="_blank" rel="noopener noreferrer">{{ $label }}</a></p>

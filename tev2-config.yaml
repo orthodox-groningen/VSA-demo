@@ -1,0 +1,31 @@
+# TEv2 tools configuration for the VSA Hugo demo.
+
+scopedir: .
+onNotExist: throw
+output: .
+
+mrgt:
+  vsntag: vsa-demo
+
+hrgt:
+  scopedir: .
+  output: .
+  interpreter: default
+  converter[1]: "| [{{#if glossaryTerm}}{{noRefs glossaryTerm}}{{else}}{{capFirst term}}{{/if}}](terminologie/{{term}}/) | {{#if glossaryText}}{{noRefs glossaryText}}{{else}}Geen `glossaryText` opgegeven voor deze term.{{/if}} |\n"
+  converter[2]: "{{#if glossaryAbbr}}| [{{glossaryAbbr}}](terminologie/{{term}}/) | Afkorting van [{{#if glossaryTerm}}{{noRefs glossaryTerm}}{{else}}{{capFirst term}}{{/if}}](terminologie/{{term}}/). |\n{{else}}{{log level='silent'}}{{/if}}"
+  converter[3]: "{{#if glossaryAlias}}| [{{glossaryAlias}}](terminologie/{{term}}/) | Alias voor [{{#if glossaryTerm}}{{noRefs glossaryTerm}}{{else}}{{capFirst term}}{{/if}}](terminologie/{{term}}/). |\n{{else}}{{log level='silent'}}{{/if}}"
+  sorter: "{{noRefs glossaryTerm}}"
+  force: true
+  input:
+    - "generated/content/tev2-glossaries/glossarium.md"
+    - "generated/content/tev2-terminologie/**/*.md"
+
+trrt:
+  scopedir: .
+  output: .
+  interpreter: default
+  converter: html-hovertext-link
+  converter[error]: "{{ref.showtext}}{{log 'TRRT error converter:' err.dir '/' err.file '@' err.line ':' err.pos '[' ref.showtext ']' level='warn'}}"
+  force: true
+  input:
+    - "generated/content/**/*.md"
