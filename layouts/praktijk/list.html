@@ -2,14 +2,4 @@
 
 {{ .Content }}
 
-{{ if .Pages }}
-  <h2>Onderliggende pagina's</h2>
-
-  <ul>
-    {{ range .Pages.ByTitle }}
-      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-    {{ end }}
-  </ul>
-{{ end }}
-
 {{ end }}

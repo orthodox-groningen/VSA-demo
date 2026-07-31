@@ -2,15 +2,14 @@
 title: "Praktijkvoorbeelden"
 ---
 
-{{< navbuttons 
+{{< navbuttons
     "Home       | ../"
     "Weekdagen  | weekdagen/"
     "Zondagen   | zondagen/"
     "Feesteigen | feesteigen/"
     "Hemelum    | hemelum-eigen/"
-    "Samenstellingen | samenstellingen/"
 >}}
 
---- 
+---
 
-<!-- VSA-NAV:PAGES-HERE  -->
+<!-- VSA-NAV:PAGES-HERE -->

@@ -1,0 +1,33 @@
+---
+description: Normatieve terminologie orthodox-groningen — lees bron, dupliceer niet
+alwaysApply: true
+---
+
+# Terminologie orthodox-groningen
+
+**Canonieke glossary (alleen hier):** `bron/docs/specs/terminologie.md`
+→ https://github.com/orthodox-groningen/bron/blob/main/docs/specs/terminologie.md
+
+**Dupliceer normatieve specs niet** in andere repo's — link ernaar. Alleen tool-specifieke docs horen in tool-repo's (bijv. VSA-syntax in VSA-tooling).
+
+Bindend voor docs, metadata, yaml, code-commentaar, issues en PR-teksten in **alle** repo's van github.com/orthodox-groningen.
+
+## Gebruiksregels (R1–R5)
+
+1. **Gedefinieerde term** → precies de betekenis uit de glossary.
+2. **Concept met term** → gebruik die term (geen verwarrend gangbaar synoniem).
+3. **Geen ad-hoc termen** → wijzigingen alleen via PR op `bron`.
+4. **Ids canoniek** → opslag/paden: `[a-z0-9_-]+`; aliassen alleen op invoergrens.
+
+## Vier niveaus
+
+`zangstuk-id` → `variant-id` → `uitvoeringsvorm-id` → `representatie-id` (0..n).
+
+## Verboden / verouderd
+
+- `uv-id` → `uitvoeringsvorm-id`
+- afkorting `uv` → schrijf **uitvoeringsvorm** uit
+- **uitvoeringsalternatief** → **uitvoeringsvorm**
+- `variant-id: standaard` → expliciet id
+
+Documentatie-eigendom: `bron/docs/specs/documentatie-eigendom.md`.
