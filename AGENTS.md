@@ -58,6 +58,17 @@ content-source  --vsa validate-->
 
 ---
 
+## GitHub Pages
+
+| Branch | Doel | URL |
+| ------ | ---- | --- |
+| `main` | Productie | https://orthodox-groningen.github.io/VSA-demo/ |
+| andere | Preview | https://orthodox-groningen.github.io/VSA-demo/preview/ |
+
+Zelfde patroon als `bron` (`docs-pages.yml`). Deploy via reusable workflow in VSA-tooling.
+
+---
+
 ## Git / commits
 
 Conventional Commits. Alleen committen als de gebruiker dat vraagt.

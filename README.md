@@ -37,8 +37,11 @@ scripts\build-hugo.cmd
 
 ## GitHub Pages
 
-Push naar `main` (of handmatig **Actions → Deploy site to GitHub Pages**) bouwt en publiceert naar branch `gh-pages`.
+| Branch | Doel | URL |
+| ------ | ---- | --- |
+| `main` | Productie | https://orthodox-groningen.github.io/VSA-demo/ |
+| andere | Preview | https://orthodox-groningen.github.io/VSA-demo/preview/ |
+
+Elke push triggert de workflow. Productie en preview delen branch `gh-pages` (map `preview/` blijft naast de root staan).
 
 **Eenmalig in GitHub:** Settings → Pages → Source: **Deploy from a branch** → Branch: `gh-pages` → Folder: `/`.
-
-URL: https://orthodox-groningen.github.io/VSA-demo/

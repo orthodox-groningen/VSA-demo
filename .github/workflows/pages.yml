@@ -1,29 +1,60 @@
-# Build and deploy VSA-demo to GitHub Pages (site root on gh-pages).
-# URL: https://orthodox-groningen.github.io/VSA-demo/
+# Deploy VSA-demo to GitHub Pages.
+# - push main  → productie (gh-pages root)
+# - andere branch → preview (gh-pages:/preview/)
+# URL prod:    https://orthodox-groningen.github.io/VSA-demo/
+# URL preview: https://orthodox-groningen.github.io/VSA-demo/preview/
 # Pages setting: Deploy from a branch → gh-pages → /.
 
 name: Deploy site to GitHub Pages
 
 on:
   push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
   contents: write
 
-concurrency:
-  group: pages-vsa-demo
-  cancel-in-progress: false
-
 jobs:
-  build-and-deploy:
-    name: Build and deploy
+  build:
+    name: Build site
     runs-on: ubuntu-latest
+
+    outputs:
+      destination_dir: ${{ steps.target.outputs.destination_dir }}
+      url_prefix: ${{ steps.target.outputs.url_prefix }}
+      pages_url: ${{ steps.target.outputs.pages_url }}
+      label: ${{ steps.target.outputs.label }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Determine deploy target
+        id: target
+        shell: bash
+        run: |
+          branch="${GITHUB_REF#refs/heads/}"
+          echo "branch=$branch" >> "$GITHUB_OUTPUT"
+          if [[ "${GITHUB_REF}" == "refs/heads/main" ]]; then
+            echo "base_url=https://orthodox-groningen.github.io/VSA-demo/" >> "$GITHUB_OUTPUT"
+            echo "destination_dir=" >> "$GITHUB_OUTPUT"
+            echo "url_prefix=/VSA-demo/" >> "$GITHUB_OUTPUT"
+            echo "pages_url=https://orthodox-groningen.github.io/VSA-demo/" >> "$GITHUB_OUTPUT"
+            echo "label=production" >> "$GITHUB_OUTPUT"
+          else
+            echo "base_url=https://orthodox-groningen.github.io/VSA-demo/preview/" >> "$GITHUB_OUTPUT"
+            echo "destination_dir=preview" >> "$GITHUB_OUTPUT"
+            echo "url_prefix=/VSA-demo/preview/" >> "$GITHUB_OUTPUT"
+            echo "pages_url=https://orthodox-groningen.github.io/VSA-demo/preview/" >> "$GITHUB_OUTPUT"
+            echo "label=preview" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Show deploy target
+        run: |
+          echo "Target: ${{ steps.target.outputs.label }}"
+          echo "base_url: ${{ steps.target.outputs.base_url }}"
+          echo "destination_dir: '${{ steps.target.outputs.destination_dir }}'"
+          echo "url_prefix: ${{ steps.target.outputs.url_prefix }}"
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -65,12 +96,25 @@ jobs:
             --contentDir generated/content \
             --destination generated/site \
             --minify \
-            --baseURL "https://orthodox-groningen.github.io/VSA-demo/"
+            --baseURL "${{ steps.target.outputs.base_url }}"
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload site artifact
+        uses: actions/upload-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: generated/site
-          publish_branch: gh-pages
-          force_orphan: true
+          name: pages-site
+          path: generated/site
+          if-no-files-found: error
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: build
+    uses: orthodox-groningen/VSA-tooling/.github/workflows/pages-deploy-reusable.yml@main
+    with:
+      artifact_name: pages-site
+      publish_dir: site
+      destination_dir: ${{ needs.build.outputs.destination_dir }}
+      url_prefix: ${{ needs.build.outputs.url_prefix }}
+      pages_url: ${{ needs.build.outputs.pages_url }}
+      keep_files: true
+    permissions:
+      contents: write
