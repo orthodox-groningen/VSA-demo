@@ -58,6 +58,7 @@
 <line class="vsa-glyph vsa-upper-glyph vsa-glyph-fall" x1="496.04" y1="13.57" x2="506.84" y2="18.43" stroke="black" stroke-width="1.00" stroke-linecap="round"/>
 </g>
 <g class="vsa-glyph-group vsa-lower-glyphs">
+<line class="vsa-glyph vsa-lower-glyph vsa-glyph-length" x1="494.84" y1="41.00" x2="508.04" y2="41.00" stroke="red" stroke-width="1.00" stroke-linecap="round"/>
 </g>
 </g>
 <g class="vsa-unit vsa-unit-text" data-vsa-unit="20">
