@@ -4,6 +4,10 @@
 # URL prod:    https://orthodox-groningen.github.io/VSA-demo/
 # URL preview: https://orthodox-groningen.github.io/VSA-demo/preview/
 # Pages setting: Deploy from a branch → gh-pages → /.
+#
+# Checks (blocking): sync, validate (--fail-on-warnings), build-markdown,
+# musicxml, hugo, interne link/asset-check.
+# Checks (niet-blocking): externe http(s)-links.
 
 name: Deploy site to GitHub Pages
 
@@ -88,7 +92,7 @@ jobs:
         run: python scripts/sync_bron_zondagen.py --bron-root vendor/bron
 
       - name: Validate VSA content
-        run: vsa validate --summary content-source
+        run: python scripts/validate_content.py --summary --fail-on-warnings content-source
 
       - name: Generate Markdown + SVG
         run: |
@@ -118,6 +122,16 @@ jobs:
             --destination generated/site \
             --minify \
             --baseURL "${{ steps.target.outputs.base_url }}"
+
+      - name: Check internal links and assets
+        run: |
+          python scripts/check_hugo_links_and_assets.py \
+            --site-dir generated/site \
+            --url-prefix "${{ steps.target.outputs.url_prefix }}"
+
+      - name: Check external links (non-blocking)
+        continue-on-error: true
+        run: python scripts/check_external_links.py --site-dir generated/site
 
       - name: Upload site artifact
         uses: actions/upload-artifact@v4
