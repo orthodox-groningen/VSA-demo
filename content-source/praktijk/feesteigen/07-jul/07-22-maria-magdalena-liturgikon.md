@@ -1,5 +1,5 @@
 ---
-title: "Maria Magdalena (22 Juli)"
+title: "Maria Magdalena"
 feestdag: "22 juli"
 source: "Liturgikon"
 layout: "feesteigen-pagina"
