@@ -1,6 +1,8 @@
 ---
-title: "21 nov. Tempelgang van de Moeder Gods"
+title: "Tempelgang van de Moeder Gods"
+feestdag: "21 nov"
 source: "Liturgikon, p282"
+layout: "feesteigen-pagina"
 ---
 
 ### TROPARION t. 4
@@ -24,8 +26,5 @@ Zij brengt daar de ge-na-de van Gods {Hei_}{/li}ge {\Geest_},
 {/ter}wijl Zijn En-ge-len {zin__}{\gen_}: 
 // Zie, daar is de he-mel-se {-&/woon_&_}{\tent_}. [//:]
 :::
-
-Hebr. 9; 1–7 
-Lk. 10; 38–42, 11; 27–28 
 
 ---

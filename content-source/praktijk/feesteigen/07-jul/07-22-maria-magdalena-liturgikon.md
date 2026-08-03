@@ -1,9 +1,9 @@
 ---
 title: "Maria Magdalena (22 Juli)"
+feestdag: "22 juli"
 source: "Liturgikon"
+layout: "feesteigen-pagina"
 ---
-
-# Maria Magdalena
 
 ### Tropaar
 

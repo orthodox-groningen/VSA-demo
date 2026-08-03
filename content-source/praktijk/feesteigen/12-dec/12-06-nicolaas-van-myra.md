@@ -1,6 +1,8 @@
 ---
 title: "H. Nicolaas van Myra (6 December)"
+feestdag: "6 dec"
 source: "Liturgikon"
+layout: "feesteigen-pagina"
 ---
 
 ### TROPARION t. 4

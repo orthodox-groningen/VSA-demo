@@ -1,9 +1,9 @@
 ---
-title: "H. Marina (grootmartelares, 17 Juli)"
+title: "H. Marina, grootmartelares"
+feestdag: "17 juli"
 source: "Groningen"
+layout: "feesteigen-pagina"
 ---
-
-# H. Marina
 
 ### Tropaar
 

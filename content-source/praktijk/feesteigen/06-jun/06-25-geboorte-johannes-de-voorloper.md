@@ -1,6 +1,8 @@
 ---
-title: "Geboorte van Johannes de Voorloper (25 juni)"
+title: "Geboorte van Johannes de Voorloper"
+feestdag: "25 juni"
 source: "Hemelum"
+layout: "feesteigen-pagina"
 ---
 
 ## Tropaar t. 4

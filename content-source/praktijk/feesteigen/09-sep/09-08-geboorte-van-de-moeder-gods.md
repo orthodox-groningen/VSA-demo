@@ -1,6 +1,8 @@
 ---
-title: "Geboorte van de Moeder Gods (8 September)"
+title: "Geboorte van de Moeder Gods"
+feestdag: "8 sep"
 source: "Liturgikon"
+layout: "feesteigen-pagina"
 ---
 
 ## Eerste Antifoon

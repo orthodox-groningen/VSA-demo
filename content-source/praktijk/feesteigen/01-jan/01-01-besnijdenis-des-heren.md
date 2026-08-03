@@ -1,9 +1,9 @@
 ---
-title: "Besnijdenis des Heren (1 Januari)"
+title: "Besnijdenis des Heren"
+feestdag: "1 jan"
 source: "Liturgikon"
+layout: "feesteigen-pagina"
 ---
-
-# Besnijdenis des Heren 
 
 **DIT IS NOG NIET COMPLEET!**
 

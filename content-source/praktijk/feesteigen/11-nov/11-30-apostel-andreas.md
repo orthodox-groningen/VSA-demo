@@ -1,6 +1,8 @@
 ---
-title: "Apostel Andreas, de Eerstgeroepene (30 nov.)"
+title: "Apostel Andreas, de Eerstgeroepene"
+feestdag: "30 nov"
 source: "Liturgikon"
+layout: "feesteigen-pagina"
 ---
 
 ### TROPARION t. 4

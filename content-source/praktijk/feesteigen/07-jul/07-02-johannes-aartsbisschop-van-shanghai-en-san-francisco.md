@@ -1,6 +1,8 @@
 ---
-title: "H. Johannes, Aartsbisschop van Shanghai en San Francisoico (2 Juli, 1966)"
+title: "H. Johannes, Aartsbisschop van Shanghai en San Francisco"
+feestdag: "2 juli (1966)"
 source: "Hemelum"
+layout: "feesteigen-pagina"
 ---
 
 ### TROPARION t. 4

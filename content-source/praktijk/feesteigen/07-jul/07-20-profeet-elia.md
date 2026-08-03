@@ -1,9 +1,9 @@
 ---
-title: "Profeet Elia (20 Juli)"
+title: "Profeet Elia"
+feestdag: "20 juli"
 source: "V. Jewsewy"
+layout: "feesteigen-pagina"
 ---
-
-# Profeet Elia
 
 ### Tropaar
 
