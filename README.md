@@ -88,7 +88,7 @@ scripts\build-hugo.cmd
 ## Afhankelijkheden
 
 - Python ≥ 3.12
-- Hugo ≥ 0.147
+- Hugo ≥ 0.156 (vereist voor `hugo.Data` in layouts; lokaal getest met 0.160)
 - `catalogus` uit [bron](https://github.com/orthodox-groningen/bron) (via bootstrap)
 - `vsa-tool[rendering]` uit [VSA-tooling](https://github.com/orthodox-groningen/VSA-tooling)
 
