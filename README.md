@@ -20,6 +20,8 @@ scripts\bootstrap.cmd
 scripts\serve-hugo.cmd
 ```
 
+Scripts vinden: `scripts\h.cmd` · detail per script: `scripts\h.cmd bootstrap` — zie [scripts/README.md](scripts/README.md).
+
 Open daarna http://localhost:1313/
 
 Na een geslaagde `scripts\check.cmd` kun je zonder opnieuw te genereren serveren:
@@ -34,11 +36,11 @@ Volledige build (inclusief interne linkcheck):
 scripts\build-hugo.cmd
 ```
 
-Preflight vóór een commit (zelfde checks als CI; optioneel strenger):
+Preflight vóór een commit (groen = CI-blocking checks):
 
 ```cmd
 cd /d C:\Git\orthodox-groningen\VSA-demo
-scripts\check.cmd
+scripts\check.cmd --strict
 scripts\check.cmd --strict --external
 ```
 

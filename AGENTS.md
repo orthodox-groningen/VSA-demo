@@ -39,11 +39,23 @@ Vermijd: `uv-id`, afkorting `uv`, **uitvoeringsalternatief**, impliciet `variant
 ```cmd
 cd /d C:\Git\orthodox-groningen\VSA-demo
 scripts\bootstrap.cmd
-scripts\build-hugo.cmd
-scripts\serve-hugo.cmd
+scripts\check.cmd --strict
+scripts\serve-hugo.cmd --no-build
 ```
 
-`bootstrap.cmd` installeert `vsa-tool[rendering]` vanaf VSA-tooling `main`.
+Scripts vinden / man-pages: `scripts\h.cmd` (detail: `scripts\h.cmd check`).  
+Uitleg: [scripts/README.md](scripts/README.md).
+
+`bootstrap.cmd` installeert catalogus (bron) + `vsa-tool[rendering]` (VSA-tooling).
+
+### Scripts onderhouden
+
+Wijzig, voeg toe of verwijder je iets onder `scripts/`:
+
+1. Werk [scripts/README.md](scripts/README.md) bij (tabellen, situaties, begrippen).
+2. Werk `scripts\h.cmd` bij (catalogus + man-page).
+3. Console-tekst in `.cmd` (`echo`): **alleen eenvoudige ASCII** (`->`, `-`, geen
+   Unicode-pijlen/em-dashes) — Windows-cmd verknoeit UTF-8 anders.
 
 ---
 
