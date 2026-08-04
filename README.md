@@ -3,9 +3,43 @@
 Hugo-demo site voor [VSA-tooling](https://github.com/orthodox-groningen/VSA-tooling):
 Markdown + VSA-notatie → SVG → statische site (GitHub Pages).
 
+Gerelateerde documentatie: [bron](https://orthodox-groningen.github.io/bron/) ·
+[VSA-tooling](https://orthodox-groningen.github.io/VSA-tooling/)
+
+## Scripts vinden
+
+```cmd
+scripts\h.cmd
+scripts\h.cmd check
+```
+
+Detail, begrippen en testladder: [scripts/README.md](scripts/README.md).  
+Bijdragen: [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Vóór commit
+
+**Groen vóór commit = CI-blocking checks** (`validate.yml` / `pages.yml`).
+
+```cmd
+cd /d C:\Git\orthodox-groningen\VSA-demo
+scripts\check.cmd --strict
+```
+
+Optioneel — externe `http(s)`-links (in CI non-blocking; lokaal hard fail):
+
+```cmd
+scripts\check.cmd --strict --external
+```
+
+| Optie         | Effect                                      |
+| ------------- | ------------------------------------------- |
+| `--strict`    | Faal ook op VSA-warnings                    |
+| `--external`  | Check externe links (kan flaky zijn)        |
+| `--skip-hugo` | Alleen sync + validate + generate (sneller) |
+
 ## Lokaal
 
-Vereist sibling-checkouts (of `vendor/`) van **bron** en **VSA-tooling** voor catalogus-includes en zondag-sync:
+Vereist sibling-checkouts (of `vendor/`) van **bron** en **VSA-tooling**:
 
 ```text
 C:\Git\orthodox-groningen\
@@ -14,41 +48,32 @@ C:\Git\orthodox-groningen\
   VSA-demo\
 ```
 
+Eerste keer / na tool-update:
+
 ```cmd
 cd /d C:\Git\orthodox-groningen\VSA-demo
 scripts\bootstrap.cmd
-scripts\serve-hugo.cmd
 ```
 
-Scripts vinden: `scripts\h.cmd` · detail per script: `scripts\h.cmd bootstrap` — zie [scripts/README.md](scripts/README.md).
-
-Open daarna http://localhost:1313/
-
-Na een geslaagde `scripts\check.cmd` kun je zonder opnieuw te genereren serveren:
+Na een geslaagde `check.cmd --strict` — preview zonder opnieuw te genereren:
 
 ```cmd
 scripts\serve-hugo.cmd --no-build
 ```
 
-Volledige build (inclusief interne linkcheck):
+Open http://localhost:1313/
+
+Volledige preview (sync + validate + generate + server):
+
+```cmd
+scripts\serve-hugo.cmd
+```
+
+Volledige sitebuild + interne linkcheck (artifact in `generated\site`):
 
 ```cmd
 scripts\build-hugo.cmd
 ```
-
-Preflight vóór een commit (groen = CI-blocking checks):
-
-```cmd
-cd /d C:\Git\orthodox-groningen\VSA-demo
-scripts\check.cmd --strict
-scripts\check.cmd --strict --external
-```
-
-| Optie         | Effect                                              |
-| ------------- | --------------------------------------------------- |
-| `--strict`    | Faal ook op VSA-warnings                            |
-| `--external`  | Check externe `http(s)`-links (kan flaky zijn)      |
-| `--skip-hugo` | Alleen sync + validate + generate (sneller)         |
 
 ## Structuur
 
@@ -73,6 +98,8 @@ scripts\check.cmd --strict --external
 | --------------- | ---------------- | ---------------------------------------------------------------- | -------------------- |
 | `validate.yml`  | pull request     | sync, validate (+warnings), generate, hugo, interne links/assets | externe links        |
 | `pages.yml`     | push / handmatig | hetzelfde + deploy naar `gh-pages`                               | externe links        |
+
+Lokaal equivalent: `scripts\check.cmd --strict` (zie [CONTRIBUTING.md](CONTRIBUTING.md)).
 
 ## GitHub Pages
 

@@ -62,10 +62,22 @@ is geen modelkeuze-issue; markeringen signaleren fouten in de gezongen tekst.
 
 ## Lokaal bouwen
 
+Eerste keer / na tool-update:
+
 ```cmd
 cd /d C:\Git\orthodox-groningen\VSA-demo
 scripts\bootstrap.cmd
+```
+
+**Vóór commit** (zelfde als [CONTRIBUTING.md](CONTRIBUTING.md) en CI):
+
+```cmd
 scripts\check.cmd --strict
+```
+
+Preview na groene check:
+
+```cmd
 scripts\serve-hugo.cmd --no-build
 ```
 
@@ -92,6 +104,7 @@ Wijzig, voeg toe of verwijder je iets onder `scripts/`:
 content-source  --vsa validate-->
                 --vsa build-markdown-->  generated/content + static/vsa
                 --update-nav-placeholders-->
+                --inject_git_dates + write_build_stamp-->
                 --hugo-->                generated/site
 ```
 
@@ -111,3 +124,6 @@ Zelfde patroon als `bron` (`docs-pages.yml`). Deploy via reusable workflow in VS
 ## Git / commits
 
 Conventional Commits. Alleen committen als de gebruiker dat vraagt.
+
+Menselijke bijdragers: [CONTRIBUTING.md](CONTRIBUTING.md) — groen vóór commit =
+`scripts\check.cmd --strict`.
