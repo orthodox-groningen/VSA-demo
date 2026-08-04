@@ -2,6 +2,7 @@
 title: "Profeet Elia"
 feestdag: "20 juli"
 source: "V. Jewsewy"
+source-note: "Mogelijk uit 'Heiligenjaar, deel 7'"
 layout: "feesteigen-pagina"
 ---
 

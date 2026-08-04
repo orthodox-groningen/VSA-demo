@@ -1,14 +1,14 @@
 ---
 title: "Maria Magdalena"
 feestdag: "22 juli"
-source: "Hemelum"
+source: "Heiligenjaar (deel 7, Juli)"
 layout: "feesteigen-pagina"
 ---
 
 ### Tropaar
 
 ::: vsa-notatie
-<!-- Tropaar Maria Magdalena, Toon 1 (Hemelum)-->
+<!-- Tropaar Maria Magdalena, Toon 1 (Heiligenjaar (deel 7, Juli))-->
 [/:] {Chris_}{/tus_} {\\die} voor ons uit de {/Maagd} {/ge}{/bo_}ren {is_}, *
 {\hebt} gij nagevolgd, eerbiedwaardige Maria Magda{\le_}{\na_}, *
 door Zijn Ge{/bo_}{/den_} {\\te} {/on}{/der}{/hou_}{den_}. *
@@ -20,7 +20,7 @@ wij {/roe_}{/men_} {\\u} {/in} {/ge}{/loof_} *
 ## Kondak
 
 ::: vsa-notatie
-<!-- Kondak Maria Magdalena, Toon 4 (Hemelum) -->
+<!-- Kondak Maria Magdalena, Toon 4 (Heiligenjaar (deel 7, Juli)) -->
 [//:] Toen de boven{we_}zen{/lij}ke {\God_} *
 {/Zich} in het vlees in de {we_}reld be{\vond} *
 heeft Hij u tot een ware {Leer_}lin{/ge} ge{\maakt_} *

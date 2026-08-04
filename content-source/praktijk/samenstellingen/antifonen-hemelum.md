@@ -28,8 +28,6 @@ Overzicht: [Antifonen - weekdagen (catalogus-demo)](../antifonen-weekdagen-catal
 <details>
   <summary>3e Antifoon (weekdagen)</summary>
 
-:::include svg id:antifoon-3-weekdagen/liturgikon-weekdagen/Liturgikon alt="3e antifoon weekdagen (Liturgikon)":::
-
-(Hemelum voor 3e antifoon weekdagen: nog niet in `lokaal/`.)
+:::include svg id:antifoon-3-weekdagen/liturgikon-weekdagen/Hemelum alt="3e antifoon weekdagen (Hemelum)":::
 
 </details>

@@ -5,7 +5,7 @@ source: "Liturgikon"
 ---
 <!-- 
 {{< navbuttons 
-    "Antifonen | ../antifonen-hemelum/"
+    "Antifonen | ../samenstellingen/antifonen-weekdagen-catalogus/"
     "Maandag   | ../maandag/"
     "Dinsdag   | ../dinsdag/"
     "Woensdag  | ../woensdag/"

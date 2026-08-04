@@ -9,11 +9,11 @@ sources:
 Liturgische **positie** (1e / 2e / 3e) × **gelegenheid** (`weekdagen`) = aparte **zangstuk-id**'s.  
 **Variant** = `liturgikon-weekdagen`. **Uitvoeringsvorm** = `liturgikon` (Liturgikon-tekst) of `hemelum` (parochiepraktijk).
 
-| Zangstuk-id | Liturgikon (VSA) | Hemelum (VSA) |
-| ----------- | ---------------- | ------------- |
-| `antifoon-1-weekdagen` | ✅ | ✅ |
-| `antifoon-2-weekdagen` | ✅ | ✅ |
-| `antifoon-3-weekdagen` | ✅ | — |
+| Zangstuk-id            | Liturgikon (VSA) | Hemelum (VSA) |
+| ---------------------- | ---------------- | ------------- |
+| `antifoon-1-weekdagen` | ✅               | ✅            |
+| `antifoon-2-weekdagen` | ✅               | ✅            |
+| `antifoon-3-weekdagen` | ✅               | ✅            |
 
 Weekdag-antifonen: **geen** Groningen-koormap (Groningen wel [zondag-antifonen](../../zondagen/antifonen-zondag-groningen/)).
 
@@ -52,7 +52,14 @@ Weekdag-antifonen: **geen** Groningen-koormap (Groningen wel [zondag-antifonen](
 
 </details>
 
+<details>
+  <summary>3e antifoon — Hemelum</summary>
+
+:::include svg id:antifoon-3-weekdagen/liturgikon-weekdagen/Hemelum:::
+
+</details>
+
 ---
 
-- [Antifonen - weekdagen (Liturgikon)](../antifonen/)
+- [Antifonen - weekdagen (Liturgikon)](../antifonen-liturgikon/)
 - [Antifonen - weekdagen (Hemelum)](../antifonen-hemelum/)
