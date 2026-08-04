@@ -42,19 +42,29 @@ body {
   background: var(--nav-bg);
 }
 
-.site-nav {
+.site-header-inner {
   width: 100%;
   max-width: var(--page-max-width);
   margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem 1rem;
   padding:
     0.75rem
     max(var(--page-padding), env(safe-area-inset-right))
     0.75rem
     max(var(--page-padding), env(safe-area-inset-left));
+}
+
+.site-nav {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem 1rem;
   align-items: center;
+  margin: 0;
+  padding: 0;
 }
 
 .site-nav a {
@@ -66,6 +76,68 @@ body {
 .site-nav a:hover,
 .site-nav a:focus {
   text-decoration: underline;
+}
+
+.site-jumps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.75rem;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.site-jump {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: #003366;
+  text-decoration: none;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.site-jump:hover,
+.site-jump:focus {
+  text-decoration: underline;
+}
+
+.site-jump-icon {
+  width: 1.1rem;
+  height: 1.1rem;
+  flex-shrink: 0;
+}
+
+.site-jump-label {
+  font-size: 0.8rem;
+}
+
+.site-footer {
+  width: 100%;
+  max-width: var(--page-max-width);
+  margin: 2rem auto 0;
+  padding:
+    0
+    max(var(--page-padding), env(safe-area-inset-right))
+    2rem
+    max(var(--page-padding), env(safe-area-inset-left));
+  border-top: 1px solid var(--border-color);
+}
+
+.site-meta {
+  margin-top: 1rem;
+}
+
+.build-time-stamp,
+.page-git-date {
+  color: #666666;
+  font-size: 0.75rem;
+  margin: 0.25rem 0 0;
+}
+
+.build-time-stamp:first-child,
+.page-git-date:first-child {
+  margin-top: 0;
 }
 
 h1, h2, h3 {
@@ -167,6 +239,15 @@ svg,
     align-items: flex-start;
   }
 
+  .site-header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .site-jumps {
+    width: 100%;
+  }
+
   .site-nav a {
     white-space: normal;
   }
@@ -193,6 +274,7 @@ svg,
 
   .site-header,
   .site-nav,
+  .site-jumps,
   .nav-buttons,
   footer {
     display: none;
