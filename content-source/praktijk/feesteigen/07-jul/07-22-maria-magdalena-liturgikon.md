@@ -5,6 +5,8 @@ source: "Liturgikon"
 layout: "feesteigen-pagina"
 ---
 
+Variant: [Maria Magdalena (Heiligenjaar)](../07-22-maria-magdalena-heiligenjaar/).
+
 ### Tropaar
 
 ::: vsa-notatie

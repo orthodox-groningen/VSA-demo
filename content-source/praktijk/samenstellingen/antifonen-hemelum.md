@@ -11,6 +11,12 @@ Gestructureerd in [parochie-lokaal](https://github.com/orthodox-groningen/bron/b
 
 Overzicht: [Antifonen - weekdagen (catalogus-demo)](../antifonen-weekdagen-catalogus/).
 
+Bronpagina's met inline VSA (Hemelum-praktijk):
+
+- [1e antifoon weekdagen (Hemelum)](../../hemelum-eigen/eerste-antifoon-weekdagen-hemelum/)
+- [2e antifoon weekdagen (Hemelum)](../../hemelum-eigen/tweede-antifoon-weekdagen-hemelum/)
+- [3e antifoon weekdagen (Hemelum)](../../hemelum-eigen/derde-antifoon-weekdagen-hemelum/)
+
 <details>
   <summary>1e Antifoon (weekdagen)</summary>
 

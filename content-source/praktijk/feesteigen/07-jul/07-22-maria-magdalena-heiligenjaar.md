@@ -5,6 +5,8 @@ source: "Heiligenjaar (deel 7, Juli)"
 layout: "feesteigen-pagina"
 ---
 
+Variant: [Maria Magdalena (Liturgikon)](../07-22-maria-magdalena-liturgikon/).
+
 ### Tropaar
 
 ::: vsa-notatie

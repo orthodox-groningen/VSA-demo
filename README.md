@@ -54,7 +54,7 @@ scripts\check.cmd --strict --external
 
 | Pad               | Rol                                              |
 | ----------------- | ------------------------------------------------ |
-| `content-source/` | Broncontent (bewerken), inclusief `lokaal/`      |
+| `content-source/` | Broncontent (bewerken), inclusief `lokaal/` — zie [CONTENT-STRUCTURE.md](CONTENT-STRUCTURE.md) |
 | `layouts/`        | Hugo-templates en shortcodes                     |
 | `static/`         | CSS, favicons; gegenereerde SVG in `static/vsa/` |
 | `scripts/`        | Bootstrap, sync, build, check, serve             |

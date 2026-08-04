@@ -2,6 +2,8 @@
 title: "Samenstellingen"
 ---
 
+Samengestelde liturgieen en catalogus-demo's (`:::include svg id:...`).
+
 {{< navbuttons
     "Home       | ../../"
     "Omhoog     | ../"
