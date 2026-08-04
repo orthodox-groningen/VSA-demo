@@ -142,6 +142,7 @@ echo.
 echo DESCRIPTION
 echo   Draait lokaal de blocking pipeline die CI ook doet:
 echo   sync zondag -^> validate -^> generate ^(md/svg/mxl^) -^> hugo -^> interne links.
+echo   Wrapper om scripts\_pipeline.cmd ^(zie scripts\README.md testladder^).
 echo.
 echo   "Preflight" = check voor commit. "CI-spiegel" = met --strict dezelfde
 echo   strengheid als GitHub Actions ^(ook VSA-warnings laten falen^).
@@ -158,7 +159,7 @@ echo   Tussendoor itereren op VSA: scripts\check.cmd --skip-hugo
 echo.
 echo SEE ALSO
 echo   scripts\h.cmd serve-hugo
-echo   scripts\README.md  ^(begrippen + CI-tabel^)
+echo   scripts\README.md  ^(testladder + CI-spiegel^)
 echo.
 goto end_ok
 
@@ -171,15 +172,14 @@ echo SYNOPSIS
 echo   scripts\build-hugo.cmd
 echo.
 echo DESCRIPTION
-echo   Volledige sitebuild naar generated\site:
-echo   sync -^> validate ^(met fail-on-warnings^) -^> generate -^> hugo -^> interne links.
-echo   Vergelijkbaar met check.cmd --strict, bedoeld als expliciete "bouw de site".
+echo   Volledige sitebuild naar generated\site. Zelfde keten als check.cmd --strict
+echo   ^(via scripts\_pipeline.cmd^). Geen --external.
 echo.
 echo   Commit geen generated\ of static\vsa\ - die mappen zijn build-output.
 echo.
 echo WHEN
-echo   Als je een complete site-artifact wilt zonder serve; of om te vergelijken
-echo   met CI-build. Voor preflight voor commit is check.cmd --strict genoeg.
+echo   Site-artifact in generated\site zonder hugo server.
+echo   Voor preflight voor commit: check.cmd --strict is genoeg.
 echo.
 echo SEE ALSO
 echo   scripts\h.cmd check
@@ -197,16 +197,16 @@ echo   scripts\serve-hugo.cmd [--no-build]
 echo.
 echo DESCRIPTION
 echo   Start de Hugo-development server ^(http://localhost:1313/^).
-echo   Standaard: eerst sync + validate + generate, daarna server.
+echo   Standaard: pipeline ^(sync/validate/generate via _pipeline.cmd^), daarna server.
+echo   Validate zonder --strict ^(snellere preview^).
 echo   Met --no-build: alleen server; vereist bestaande generated\content
-echo   ^(bijv. na een geslaagde check.cmd^).
+echo   ^(bijv. na check.cmd --strict^).
 echo.
 echo OPTIONS
 echo   --no-build   sla sync/validate/generate over; sneller herstarten
 echo.
 echo WHEN
-echo   Content/layouts bekijken in de browser.
-echo   Na check.cmd: scripts\serve-hugo.cmd --no-build
+echo   Browser-preview. CI-gelijk: eerst check.cmd --strict, dan --no-build.
 echo.
 echo SEE ALSO
 echo   scripts\h.cmd check

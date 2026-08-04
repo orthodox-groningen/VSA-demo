@@ -52,6 +52,6 @@ if exist vendor\VSA-tooling\pyproject.toml (
 
 echo.
 echo Bootstrap complete.
-echo Run: scripts\build-hugo.cmd
-echo      scripts\serve-hugo.cmd
+echo Run: scripts\check.cmd --strict
+echo      scripts\serve-hugo.cmd --no-build
 endlocal

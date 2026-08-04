@@ -59,6 +59,24 @@ vervanging van de org-glossary in bron — alleen script-/build-jargon.)
 
 **Vuistregel:** groen vóór commit = `scripts\check.cmd --strict`.
 
+## Testladder
+
+Vaste volgorde: van snel/ruim naar streng (= CI). Eén gedeelde keten in
+`_pipeline.cmd`; `check`, `build-hugo` en `serve-hugo` zijn dunne wrappers.
+
+| Niveau | Commando | Wat het doet |
+| ------ | -------- | ------------ |
+| 0 setup | `scripts\bootstrap.cmd` | `.venv`, catalogus, vsa-tool |
+| 1 snel | `scripts\check.cmd --skip-hugo` | sync + validate + generate |
+| 2 preview | `scripts\serve-hugo.cmd --no-build` | hugo server (na niveau 3 of 4) |
+| 3 preview+build | `scripts\serve-hugo.cmd` | sync + validate + generate + server |
+| 4 CI-spiegel | `scripts\check.cmd --strict` | + hugo + interne links (blocking CI) |
+| 5 + extern | `scripts\check.cmd --strict --external` | + externe links (non-blocking in CI) |
+| 6 artifact | `scripts\build-hugo.cmd` | zelfde als niveau 4, output in `generated\site` |
+
+Wanneer committen: minimaal **niveau 4** groen. Niveau 5 optioneel als je
+externe links wilt meenemen.
+
 ## Pipeline (wat gebeurt er?)
 
 ```text
@@ -72,10 +90,16 @@ content-source/
     +- link/asset-check       (interne links; optioneel externe)
 ```
 
-`check.cmd` doorloopt die keten. `build-hugo.cmd` is een strengere
-“altijd volledig”-build (validate met warnings-fail, geen `--skip-hugo`).
-`serve-hugo.cmd` doet sync/validate/generate en start daarna de Hugo-server
-(of alleen de server met `--no-build`).
+Kern: [`_pipeline.cmd`](_pipeline.cmd) (niet direct aanroepen).
+
+| Wrapper | Roept pipeline aan met |
+| ------- | ---------------------- |
+| `check.cmd` | `--strict` / `--skip-hugo` / `--external` via opties |
+| `build-hugo.cmd` | altijd strict + hugo + interne links |
+| `serve-hugo.cmd` | skip hugo (alleen generate), daarna `hugo server` |
+
+`serve-hugo.cmd` valideert zonder `--strict` (snellere preview). Voor
+CI-gelijkheid: eerst `check.cmd --strict`, daarna `serve-hugo.cmd --no-build`.
 
 ## CI ↔ lokaal (spiegel)
 
@@ -116,6 +140,7 @@ voor dagelijks werk volstaan de `.cmd`-bestanden.
 | `update-nav-placeholders.py`     | Navigatie in `generated/content`            |
 | `check_hugo_links_and_assets.py` | Interne links/assets in `generated/site`    |
 | `check_external_links.py`        | Externe http(s)-links                       |
+| `_pipeline.cmd`                  | Interne sync/validate/generate/hugo/links    |
 
 ## Typische volgorde
 

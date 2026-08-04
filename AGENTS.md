@@ -34,6 +34,32 @@ Vermijd: `uv-id`, afkorting `uv`, **uitvoeringsalternatief**, impliciet `variant
 
 ---
 
+## Modelkeuze (cost-effective)
+
+Het model van **deze chat** kies jij in de Cursor-UI; de agent kan dat niet
+wisselen. Wél:
+
+1. **Snel inschatten** bij een nieuwe taak of duidelijk ander zwaartepunt.
+2. **Adviseren** als de huidige chat te “zwaar” of te “licht” is
+   (“voor deze docs-fix is Fast genoeg”).
+3. Bij **subagents** (Task) een passend model kiezen volgens onderstaande
+   vuistregel (tenzij jij een model dwingt).
+
+| Taaksoort | Voorkeur |
+| --------- | -------- |
+| Docs, README, `h.cmd`, ASCII/links, kleine tekstfixes | Snel/licht (bijv. Composer Fast) |
+| Scripts/CI-pipeline, gerichte code-edits, commits | Middel (Sonnet / Grok zonder extra High) |
+| Architectuur, lastige multi-file redenering, CI-debug | Sterker / High-thinking |
+
+Escaleer alleen als je vastloopt of kwaliteit duidelijk tekortschiet.
+Kleine taken in een High-chat: kort adviseren om te switchen of de taak
+toch dun afhandelen zonder onnodige subagents.
+
+**Niet:** VSA-notatie “rechtzetten” om `vsa validate` stil te krijgen — dat
+is geen modelkeuze-issue; markeringen signaleren fouten in de gezongen tekst.
+
+---
+
 ## Lokaal bouwen
 
 ```cmd
@@ -52,9 +78,10 @@ Uitleg: [scripts/README.md](scripts/README.md).
 
 Wijzig, voeg toe of verwijder je iets onder `scripts/`:
 
-1. Werk [scripts/README.md](scripts/README.md) bij (tabellen, situaties, begrippen).
+1. Werk [scripts/README.md](scripts/README.md) bij (tabellen, testladder, begrippen).
 2. Werk `scripts\h.cmd` bij (catalogus + man-page).
-3. Console-tekst in `.cmd` (`echo`): **alleen eenvoudige ASCII** (`->`, `-`, geen
+3. Gedeelde keten: `_pipeline.cmd` (wrappers: check, build-hugo, serve-hugo).
+4. Console-tekst in `.cmd` (`echo`): **alleen eenvoudige ASCII** (`->`, `-`, geen
    Unicode-pijlen/em-dashes) — Windows-cmd verknoeit UTF-8 anders.
 
 ---
