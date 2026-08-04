@@ -94,6 +94,7 @@
 <text class="vsa-text vsa-sung-text" x="247.80" y="104.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">Uw</text>
 <g class="vsa-glyph-group vsa-upper-glyphs">
 <line class="vsa-glyph vsa-upper-glyph vsa-glyph-fall" x1="258.90" y1="81.57" x2="269.70" y2="86.43" stroke="black" stroke-width="1.00" stroke-linecap="round"/>
+<line class="vsa-glyph vsa-upper-glyph vsa-glyph-fall" x1="258.90" y1="77.89" x2="269.70" y2="82.75" stroke="black" stroke-width="1.00" stroke-linecap="round"/>
 </g>
 <g class="vsa-glyph-group vsa-lower-glyphs">
 </g>
@@ -168,7 +169,6 @@
 <g class="vsa-unit vsa-pitch-marker" data-vsa-unit="17">
 <g class="vsa-pitch-marker-upper-glyph vsa-upper-glyphs">
 <line class="vsa-glyph vsa-upper-glyph vsa-glyph-rise" x1="400.81" y1="128.16" x2="410.41" y2="123.84" stroke="black" stroke-width="1.00" stroke-linecap="round"/>
-<line class="vsa-glyph vsa-upper-glyph vsa-glyph-rise" x1="400.81" y1="124.48" x2="410.41" y2="120.16" stroke="black" stroke-width="1.00" stroke-linecap="round"/>
 </g>
 <line class="vsa-pitch-marker-dash" x1="401.11" y1="133.00" x2="410.11" y2="133.00" stroke="black" stroke-width="1.50" stroke-linecap="round"/>
 </g>

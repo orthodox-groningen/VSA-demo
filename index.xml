@@ -134,7 +134,8 @@ Weekdag-antifonen in Groningen: geen koormap-materiaal (anders dan &lt;a href=".
 &lt;/li>
 &lt;li>&lt;a href="../antifonen-hemelum/">Antifonen - weekdagen (Hemelum)&lt;/a>
 &lt;/li>
-&lt;/ul></description></item><item><title>Antifonen - weekdagen (Hemelum)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/samenstellingen/antifonen-hemelum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/samenstellingen/antifonen-hemelum/</guid><description>&lt;h2 id="antifonen---weekdagen-hemelum">Antifonen - weekdagen (Hemelum)&lt;/h2>
+&lt;/ul></description></item><item><title>Antifonen - weekdagen (Hemelum)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/antifonen-hemelum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/antifonen-hemelum/</guid><description>&lt;h2 id="derde-antifoon---weekdagen-hemelum">Derde Antifoon - weekdagen (Hemelum)&lt;/h2>
+&lt;div class="vsa-container">&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-hemelum-eigen-antifonen-hemelum-block-1.svg" alt="3e antifoon weekdagen (Hemelum)" loading="lazy">&lt;/div></description></item><item><title>Antifonen - weekdagen (Hemelum)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/samenstellingen/antifonen-hemelum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/samenstellingen/antifonen-hemelum/</guid><description>&lt;h2 id="antifonen---weekdagen-hemelum">Antifonen - weekdagen (Hemelum)&lt;/h2>
 &lt;p>Gestructureerd in &lt;a href="https://github.com/orthodox-groningen/bron/blob/main/docs/manuals/parochie-lokaal-zangstukken.md">parochie-lokaal&lt;/a>
  (&lt;code>content-source/lokaal/…&lt;/code>); includes via &lt;strong>catalogus&lt;/strong> (&lt;code>id:…&lt;/code>).&lt;/p>
 &lt;p>Overzicht: &lt;a href="../antifonen-weekdagen-catalogus/">Antifonen - weekdagen (catalogus-demo)&lt;/a>
@@ -188,13 +189,19 @@ Conversie (&lt;code>vsa svg&lt;/code>, &lt;code>vsa musicxml&lt;/code>) gebeurt 
 &lt;h2 id="mxl-bewerking">MXL (bewerking)&lt;/h2>
 &lt;p class="mxl-download">&lt;a href="https://orthodox-groningen.github.io/VSA-demo/vsa/mxl/praktijk/zondagen/tropaar-zondag-toon-3.mxl" download>Download MusicXML&lt;/a>&lt;/p>
 &lt;/div></description></item><item><title>Derde Antifoon - weekdagen (Hemelum)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/weekdagen/derde-antifoon-weekdagen-hemelum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/weekdagen/derde-antifoon-weekdagen-hemelum/</guid><description>&lt;h2 id="derde-antifoon---weekdagen-hemelum">Derde Antifoon - weekdagen (Hemelum)&lt;/h2>
-&lt;div class="vsa-container">&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-weekdagen-derde-antifoon-weekdagen-hemelum-block-1.svg" alt="VSA notatie" loading="lazy">&lt;/div>
+&lt;p>&lt;div class="vsa-container">&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-weekdagen-derde-antifoon-weekdagen-hemelum-block-1.svg" alt="VSA notatie" loading="lazy">&lt;/div>
 
-&lt;p>&lt;strong>P/D (met Evangelieboek): Wijsheid, staat allen recht&lt;/strong>&lt;/p>
-&lt;p>Kleine Intocht (weekdagen-variant):&lt;/p>
+&lt;br>&lt;br>&lt;br>&lt;br>&lt;br>
+&lt;strong>P/D (met Evangelieboek): Wijsheid, staat allen recht&lt;/strong>&lt;/p>
+&lt;h2 id="kleine-intocht-weekdagen-variant">Kleine Intocht (weekdagen-variant):&lt;/h2>
 &lt;div class="vsa-container">&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-weekdagen-derde-antifoon-weekdagen-hemelum-block-2.svg" alt="VSA notatie" loading="lazy">&lt;/div>
 
-&lt;p>Varianten op de tussenzin: &lt;em>zondagen&lt;/em> — “die opgestaan zit uit de doden”; &lt;em>Moeder Gods&lt;/em> — “die uit de Maagd geboren zijt”.&lt;/p></description></item><item><title>Dinsdag — H. Joannes de Doper</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/weekdagen/dinsdag/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/weekdagen/dinsdag/</guid><description>&lt;!-- 
+&lt;p>Varianten op de tussenzin:&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>weekdagen&lt;/em> : “die wonderbaar zijt in Uw heiligen”;&lt;/li>
+&lt;li>&lt;em>zondagen&lt;/em> : “die opgestaan zijt uit de doden”;&lt;/li>
+&lt;li>&lt;em>Moeder Gods&lt;/em> : “die uit de Maagd geboren zijt”.&lt;/li>
+&lt;/ul></description></item><item><title>Dinsdag — H. Joannes de Doper</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/weekdagen/dinsdag/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/weekdagen/dinsdag/</guid><description>&lt;!-- 
 &lt;div class="nav-buttons">&lt;a class="btn" href="../samenstellingen/antifonen-weekdagen-catalogus/">
  Antifonen
  &lt;/a>&lt;a class="btn" href="../maandag/">
