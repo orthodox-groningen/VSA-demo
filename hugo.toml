@@ -4,6 +4,10 @@ title = "VSA Demo"
 
 disableKinds = ["taxonomy", "term"]
 
+[params]
+  linksBron = "https://orthodox-groningen.github.io/bron/"
+  linksVsaTooling = "https://orthodox-groningen.github.io/VSA-tooling/"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

@@ -2,6 +2,7 @@
 generated/
 public/
 resources/
+data/build.yaml
 static/vsa/
 static/coria/
 

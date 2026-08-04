@@ -70,6 +70,11 @@ jobs:
       - name: Update navigation placeholders
         run: python scripts/update-nav-placeholders.py generated/content
 
+      - name: Inject git dates and build stamp
+        run: |
+          python scripts/inject_git_dates.py generated/content content-source
+          python scripts/write_build_stamp.py
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:

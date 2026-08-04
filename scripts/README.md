@@ -86,6 +86,7 @@ content-source/
     +- validate               (vsa validate; met --strict ook warnings)
     +- build-markdown + mxl   (SVG/MXL -> static/vsa, md -> generated/content)
     +- update-nav-placeholders
+    +- inject_git_dates + write_build_stamp (git_date per pagina; bouwtijd home)
     +- hugo                   (-> generated/site)
     +- link/asset-check       (interne links; optioneel externe)
 ```
@@ -138,6 +139,8 @@ voor dagelijks werk volstaan de `.cmd`-bestanden.
 | `validate_content.py`            | `vsa validate` + optioneel fail-on-warnings |
 | `sync_bron_zondagen.py`          | Zondag-sync uit bron                        |
 | `update-nav-placeholders.py`     | Navigatie in `generated/content`            |
+| `inject_git_dates.py`            | `git_date` in generated frontmatter         |
+| `write_build_stamp.py`           | `data/build.yaml` (bouwtijd Amsterdam)      |
 | `check_hugo_links_and_assets.py` | Interne links/assets in `generated/site`    |
 | `check_external_links.py`        | Externe http(s)-links                       |
 | `_pipeline.cmd`                  | Interne sync/validate/generate/hugo/links    |

@@ -1,0 +1,12 @@
+<footer class="site-footer">
+  <div class="site-meta">
+    {{ with .Params.git_date }}
+      <p class="page-git-date">Bijgewerkt: {{ . }}</p>
+    {{ end }}
+    {{ if .IsHome }}
+      {{ with hugo.Data.build.time }}
+        <p class="build-time-stamp">Gegenereerd: {{ . }}</p>
+      {{ end }}
+    {{ end }}
+  </div>
+</footer>
