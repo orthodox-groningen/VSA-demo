@@ -103,8 +103,10 @@ body {
 }
 
 .site-jump-icon {
+  display: block;
   width: 1.1rem;
   height: 1.1rem;
+  max-width: 1.1rem;
   flex-shrink: 0;
 }
 
@@ -174,7 +176,7 @@ th, td {
 }
 
 img,
-svg,
+svg:not(.site-jump-icon),
 .vsa-notation {
   max-width: 100%;
   height: auto;
