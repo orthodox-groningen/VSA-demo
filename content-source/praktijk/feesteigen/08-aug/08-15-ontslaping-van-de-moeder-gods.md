@@ -28,6 +28,7 @@ Gij zijt opgegaan tot het {/le_}{/ven_}, {\\o} Moe{/der} {/des} {/le_}{vens_}, *
 :::
 
 ::: vsa-notatie
+<!-- Vervolg 3e Antifoon -->
 2. Ps.115 – [//:] Wat kan ik den Heer te{rug_}{ge_}{/ven_} * 
    voor alles wat Hij mij ge{\schon_}ken {heeft_}? [//:] TROPAAR
 3. Ps.115 – [//:] Ik zal de Kelk des {Heils_} {ne_}{/men} *

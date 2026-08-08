@@ -1,11 +1,11 @@
 ---
 title: "Geboorte van de Moeder Gods"
 feestdag: "8 sep"
-source: "Liturgikon"
+source: "Liturgikon (p.274-275)"
 layout: "feesteigen-pagina"
 ---
 
-### Eerste Antifoon
+## Eerste Antifoon
 
 ::: vsa-notatie
 <!-- Liturgikon, 274 -->
@@ -27,7 +27,7 @@ refrein: [:] Door de {/ge}{/be_}den van de {\\hei}{/li}{/ge} {\Moe}{/der} {/&\&/
    {\\God} {/helpt} {/haar} bij het {\eer}{\ste} {/mor_.}gen{\licht_} [:] (refrein)
 :::
 
-### Tweede Antifoon
+## Tweede Antifoon
 
 ::: vsa-notatie
 <!-- Liturgikon, pp.270 -->
@@ -47,12 +47,15 @@ Die won{/der}{/baar} zijt {\in} {/Uw} {/&\&/Hei__&~&~}{\li}{\gen~},
    Hij heeft haar ge-ko-zen tot Zijn woonplaats. [:] (refrein)
 :::
 
-### Derde Antifoon
+## Derde Antifoon
 
 ::: vsa-notatie
 1. Ps. 131 [//:] Daar zal Ik {wo_}{/nen_},
    want Ik heb haar ge{\ko_}{zen_}. [//:]
+:::
 
+### Tropaar
+::: vsa-notatie
 <!-- Tropaar Geboorte van de Moeder Gods, Toon 4 (Liturgikon, p.274) -->
 [//:] Uw Geboorte, o {Moe_.}{/der} {\Gods_},
 {/heeft} de Vreugde geopenbaard aan heel de {\we__}{reld_}.
@@ -61,7 +64,10 @@ Want uit U is opgegaan de Zon der Gerechtigheid: Christus {on_}{/ze} {\God_};
 en schenkt ons Zijn {-&/ze_&_}{\gen_}.
 {/Hij} heeft de dood te{niet_.} ge{\daan_}
 en Hij verleent ons het eeuwige {-&/Le_&_}{\ven_}. [//:]
+:::
 
+::: vsa-notatie
+<!-- Vervolg 3e Antifoon -->
 2. Ps. 45 [//:] De Aller{hoog_}{/ste_}
    heiligt Zijn {\woon_}{tent_}. [//:] TROPAAR
 
@@ -73,22 +79,10 @@ en Hij verleent ons het eeuwige {-&/Le_&_}{\ven_}. [//:]
 nu en altijd en in de eeuwen der eeuwen. {\A_}{men_}. [//:]
 :::
 
-### Tropaar (Toon 4)
-
-::: vsa-notatie
-<!-- Tropaar Geboorte van de Moeder Gods, Toon 4 (Liturgikon, p.274) -->
-[//:] Uw Geboorte, o {Moe_.}{/der} {\Gods_},
-{/heeft} de Vreugde geopenbaard aan heel de {\we__}{reld_}.
-Want uit U is opgegaan de Zon der Gerechtigheid: Christus {on_}{/ze} {\God_};
-{/Hij} heeft ons van de vervloeking be{\vrijd_}
-en schenkt ons Zijn {-&/ze_&_}{\gen_}.
-{/Hij} heeft de dood te{niet_.} ge{\daan_}
-en Hij verleent ons het eeuwige {-&/Le_&_}{\ven_}. [//:]
-:::
-
 ### Kondak (Toon 4)
 
 ::: vsa-notatie
+<!-- Kondak Geboorte van de Moeder Gods, Toon 4 (Liturgikon, p.275) -->
 [//:] Joachim en {-&/An}{\na}
 {/wer}den van de schande der kinder{loos_}heid be{\vrijd_}
 door uw Ge{-&/boor_&_}{\te_},

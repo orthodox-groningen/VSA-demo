@@ -60,14 +60,19 @@ Die op {/de} {/Tha_}bor ver{\heer}{/lijkt} {/zijt_},
 <!-- 3e Antifoon - Verheerlijking op de berg Thabor (Liturgikon, p268-269) -->
 1. [//:] Uw barmhartigheden, {/Heer_}, *
    wil ik zingen in {\eeuw_}ig{heid_}. [//:]
+:::
 
 ### Tropaar (Toon 7)
+::: vsa-notatie
 <!-- Tropaar Verheerlijking op de berg Thabor, Toon 7 (Liturgikon, p.268) -->
 [//:] Gij werd ver{/&\heer}{\lijkt} op de berg, o Chris{/tus} {/God_}, *
 en aan Uw Leerlingen toonde Gij Uw {\heer_}lijk{heid_}. *
 Doe ook voor {/&\ons}, {\zon}daars, Uw eeuwig {/Licht} {/stra_}{len_}: *
 Gij die ons het {\Licht_} {schenkt_}, {/e}re zij {\U_}. [//:]
+:::
 
+::: vsa-notatie
+<!-- Vervolg 3e Antifoon -->
 2. [//:] De Hemelen belijden Uw {won_}deren, o {/Heer_}, * 
    en Uw waarachtigheid in de Kerk der {\Hei_}li{gen_}. [//:] TROPAAR
 
