@@ -184,6 +184,7 @@ Weekdag-antifonen in Groningen: geen koormap-materiaal (anders dan &lt;a href=".
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-11-nov-11-30-apostel-andreas-block-2.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
 &lt;hr&gt;</description></item><item><title>Besnijdenis des Heren</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/01-jan/01-01-besnijdenis-des-heren/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/01-jan/01-01-besnijdenis-des-heren/</guid><description>&lt;p&gt;&lt;strong&gt;DIT IS NOG NIET COMPLEET!&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id="tropaar-toon-2"&gt;Tropaar (Toon 2)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-01-jan-01-01-besnijdenis-des-heren-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>Demo: exporttypes</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/zondagen/export-demo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/zondagen/export-demo/</guid><description>&lt;div class="web-only"&gt;&lt;h1 id="exporttypes-svg--coria--mxl"&gt;Exporttypes (svg · coria · mxl)&lt;/h1&gt;
 &lt;p&gt;Demonstratie van exportmechanismen op één &lt;code&gt;.vsa&lt;/code&gt;-bron.
 Conversie (&lt;code&gt;vsa svg&lt;/code&gt;, &lt;code&gt;vsa musicxml&lt;/code&gt;) gebeurt in de build; deze pagina toont export.&lt;/p&gt;&lt;/div&gt;
@@ -194,12 +195,12 @@ Conversie (&lt;code&gt;vsa svg&lt;/code&gt;, &lt;code&gt;vsa musicxml&lt;/code&g
 &lt;p class="coria-play"&gt;&lt;a href="https://orthodox-groningen.github.io/VSA-demo/coria/praktijk/zondagen/tropaar-zondag-toon-3.html" target="_blank" rel="noopener noreferrer"&gt;Oefenen in Coria&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="mxl-bewerking"&gt;MXL (bewerking)&lt;/h2&gt;
 &lt;p class="mxl-download"&gt;&lt;a href="https://orthodox-groningen.github.io/VSA-demo/vsa/mxl/praktijk/zondagen/tropaar-zondag-toon-3.mxl" download&gt;Download MusicXML&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description></item><item><title>Derde Antifoon - weekdagen (Hemelum)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/derde-antifoon-weekdagen-hemelum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/derde-antifoon-weekdagen-hemelum/</guid><description>&lt;h2 id="derde-antifoon---weekdagen-hemelum"&gt;Derde Antifoon - weekdagen (Hemelum)&lt;/h2&gt;
+&lt;/div&gt;</description></item><item><title>Derde Antifoon - weekdagen (Hemelum)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/derde-antifoon-weekdagen-hemelum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/derde-antifoon-weekdagen-hemelum/</guid><description>&lt;h3 id="derde-antifoon---weekdagen-hemelum"&gt;Derde Antifoon - weekdagen (Hemelum)&lt;/h3&gt;
 &lt;p&gt;&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-hemelum-eigen-derde-antifoon-weekdagen-hemelum-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
 &lt;strong&gt;P/D (met Evangelieboek): Wijsheid, staat allen recht&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id="kleine-intocht-weekdagen-variant"&gt;Kleine Intocht (weekdagen-variant):&lt;/h2&gt;
+&lt;h3 id="kleine-intocht-weekdagen-variant"&gt;Kleine Intocht (weekdagen-variant):&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-hemelum-eigen-derde-antifoon-weekdagen-hemelum-block-2.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
 &lt;p&gt;Varianten op de tussenzin:&lt;/p&gt;
@@ -368,35 +369,35 @@ Beschut mij tegen de samenzwering der booswichten; tegen de menigte van hen die 
 &lt;p&gt;&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-weekdagen-donderdag-block-4.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
 Elke dag openbaart een woord aan de volgende dag; * van nacht tot nacht wordt kennis verkondigd.&lt;br&gt;
-De hemelen verhalen de heerlijkheid Gods, * het uitspansel verkondigt het werk Zijner handen.&lt;/p&gt;</description></item><item><title>Eerste Antifoon - weekdagen (Hemelum)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/eerste-antifoon-weekdagen-hemelum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/eerste-antifoon-weekdagen-hemelum/</guid><description>&lt;h2 id="eerste-antifoon---weekdagen-hemelum"&gt;Eerste Antifoon - weekdagen (Hemelum)&lt;/h2&gt;
-&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-hemelum-eigen-eerste-antifoon-weekdagen-hemelum-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>Geboorte van de Moeder Gods</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/09-sep/09-08-geboorte-van-de-moeder-gods/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/09-sep/09-08-geboorte-van-de-moeder-gods/</guid><description>&lt;h2 id="eerste-antifoon"&gt;Eerste Antifoon&lt;/h2&gt;
+De hemelen verhalen de heerlijkheid Gods, * het uitspansel verkondigt het werk Zijner handen.&lt;/p&gt;</description></item><item><title>Eerste Antifoon - weekdagen (Hemelum)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/eerste-antifoon-weekdagen-hemelum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/eerste-antifoon-weekdagen-hemelum/</guid><description>&lt;h3 id="eerste-antifoon---weekdagen-hemelum"&gt;Eerste Antifoon - weekdagen (Hemelum)&lt;/h3&gt;
+&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-hemelum-eigen-eerste-antifoon-weekdagen-hemelum-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>Geboorte van de Moeder Gods</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/09-sep/09-08-geboorte-van-de-moeder-gods/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/09-sep/09-08-geboorte-van-de-moeder-gods/</guid><description>&lt;h3 id="eerste-antifoon"&gt;Eerste Antifoon&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-09-sep-09-08-geboorte-van-de-moeder-gods-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;h2 id="tweede-antifoon"&gt;Tweede Antifoon&lt;/h2&gt;
+&lt;h3 id="tweede-antifoon"&gt;Tweede Antifoon&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-09-sep-09-08-geboorte-van-de-moeder-gods-block-2.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;h2 id="derde-antifoon"&gt;Derde Antifoon&lt;/h2&gt;
+&lt;h3 id="derde-antifoon"&gt;Derde Antifoon&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-09-sep-09-08-geboorte-van-de-moeder-gods-block-3.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;h2 id="troparion-t-4"&gt;TROPARION t. 4&lt;/h2&gt;
+&lt;h3 id="tropaar-toon-4"&gt;Tropaar (Toon 4)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-09-sep-09-08-geboorte-van-de-moeder-gods-block-4.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;h2 id="kontakion-t-4"&gt;KONTAKION t. 4&lt;/h2&gt;
-&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-09-sep-09-08-geboorte-van-de-moeder-gods-block-5.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>Geboorte van Johannes de Voorloper</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/06-jun/06-25-geboorte-johannes-de-voorloper/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/06-jun/06-25-geboorte-johannes-de-voorloper/</guid><description>&lt;h2 id="tropaar-t-4"&gt;Tropaar t. 4&lt;/h2&gt;
-&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-06-jun-06-25-geboorte-johannes-de-voorloper-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>H. Johannes, Aartsbisschop van Shanghai en San Francisco</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-02-johannes-aartsbisschop-van-shanghai-en-san-francisco/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-02-johannes-aartsbisschop-van-shanghai-en-san-francisco/</guid><description>&lt;h3 id="troparion-t-4"&gt;TROPARION t. 4&lt;/h3&gt;
+&lt;h3 id="kondak-toon-4"&gt;Kondak (Toon 4)&lt;/h3&gt;
+&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-09-sep-09-08-geboorte-van-de-moeder-gods-block-5.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>Geboorte van Johannes de Voorloper</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/06-jun/06-25-geboorte-johannes-de-voorloper/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/06-jun/06-25-geboorte-johannes-de-voorloper/</guid><description>&lt;h3 id="tropaar-toon-4"&gt;Tropaar (Toon 4)&lt;/h3&gt;
+&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-06-jun-06-25-geboorte-johannes-de-voorloper-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>H. Johannes, Aartsbisschop van Shanghai en San Francisco</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-02-johannes-aartsbisschop-van-shanghai-en-san-francisco/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-02-johannes-aartsbisschop-van-shanghai-en-san-francisco/</guid><description>&lt;h3 id="troparion-toon-4"&gt;TROPARION (Toon 4)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-02-johannes-aartsbisschop-van-shanghai-en-san-francisco-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;h3 id="kondakion-t-2"&gt;KONDAKION t. 2&lt;/h3&gt;
+&lt;h3 id="kondakion-toon-2"&gt;KONDAKION (Toon 2)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-02-johannes-aartsbisschop-van-shanghai-en-san-francisco-block-2.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;hr&gt;</description></item><item><title>H. Marina, grootmartelares</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-17-grootmartelares-marina/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-17-grootmartelares-marina/</guid><description>&lt;h3 id="tropaar"&gt;Tropaar&lt;/h3&gt;
+&lt;hr&gt;</description></item><item><title>H. Marina, grootmartelares</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-17-grootmartelares-marina/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-17-grootmartelares-marina/</guid><description>&lt;h3 id="tropaar-toon-4"&gt;Tropaar (Toon 4)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-17-grootmartelares-marina-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;h2 id="kondak"&gt;Kondak&lt;/h2&gt;
-&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-17-grootmartelares-marina-block-2.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>H. Nicolaas van Myra (6 December)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/12-dec/12-06-nicolaas-van-myra/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/12-dec/12-06-nicolaas-van-myra/</guid><description>&lt;h3 id="troparion-t-4"&gt;TROPARION t. 4&lt;/h3&gt;
+&lt;h3 id="kondak-toon-3"&gt;Kondak (Toon 3)&lt;/h3&gt;
+&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-17-grootmartelares-marina-block-2.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>H. Nicolaas van Myra (6 December)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/12-dec/12-06-nicolaas-van-myra/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/12-dec/12-06-nicolaas-van-myra/</guid><description>&lt;h3 id="tropaar-toon-4"&gt;Tropaar (Toon 4)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-12-dec-12-06-nicolaas-van-myra-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;h3 id="kondakion-t-3"&gt;KONDAKION t. 3&lt;/h3&gt;
+&lt;h3 id="kondak-toon-3"&gt;Kondak (Toon 3)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-12-dec-12-06-nicolaas-van-myra-block-2.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
 &lt;hr&gt;</description></item><item><title>H. Nicolaas van Myra (6 December)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/12-06-nicolaas-van-myra/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/12-06-nicolaas-van-myra/</guid><description>&lt;h3 id="troparion-t-4"&gt;TROPARION t. 4&lt;/h3&gt;
@@ -662,49 +663,49 @@ De hemelen verhalen de heerlijkheid Gods, * het uitspansel verkondigt het werk Z
 Gij gebruikt wolken als voertuig, Gij wandelt op de wieken der wind.&lt;br&gt;
 Den Heer zij roem in eeuwigheid; dat de Heer Zich verheuge over Zijn werken.&lt;/p&gt;</description></item><item><title>Maria Magdalena</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-22-maria-magdalena-heiligenjaar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-22-maria-magdalena-heiligenjaar/</guid><description>&lt;p&gt;Variant: &lt;a href="../07-22-maria-magdalena-liturgikon/"&gt;Maria Magdalena (Liturgikon)&lt;/a&gt;
 .&lt;/p&gt;
-&lt;h3 id="tropaar"&gt;Tropaar&lt;/h3&gt;
+&lt;h3 id="tropaar-toon-1"&gt;Tropaar (Toon 1)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-22-maria-magdalena-heiligenjaar-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;h2 id="kondak"&gt;Kondak&lt;/h2&gt;
+&lt;h3 id="kondak-toon-4"&gt;Kondak (Toon 4)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-22-maria-magdalena-heiligenjaar-block-2.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>Maria Magdalena</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-22-maria-magdalena-liturgikon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-22-maria-magdalena-liturgikon/</guid><description>&lt;p&gt;Variant: &lt;a href="../07-22-maria-magdalena-heiligenjaar/"&gt;Maria Magdalena (Heiligenjaar)&lt;/a&gt;
 .&lt;/p&gt;
-&lt;h3 id="tropaar"&gt;Tropaar&lt;/h3&gt;
+&lt;h3 id="tropaar-toon-1"&gt;Tropaar (Toon 1)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-22-maria-magdalena-liturgikon-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;h2 id="kondak"&gt;Kondak&lt;/h2&gt;
-&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-22-maria-magdalena-liturgikon-block-2.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>Neerleggen van de Mantel van de Moeder Gods (Blachernakerk)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-15-neerleggen-mantel-moeder-gods-blachernakerk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-15-neerleggen-mantel-moeder-gods-blachernakerk/</guid><description>&lt;h3 id="tropaar-van-de-mantel-van-de-moeder-gods"&gt;Tropaar van de Mantel van de Moeder Gods&lt;/h3&gt;
-&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-15-neerleggen-mantel-moeder-gods-blachernakerk-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>Ontslaping van de Moeder Gods</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/08-aug/08-15-ontslaping-van-de-moeder-gods/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/08-aug/08-15-ontslaping-van-de-moeder-gods/</guid><description>&lt;p&gt;&lt;strong&gt;1e Ant.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id="kondak-toon-3"&gt;Kondak (Toon 3)&lt;/h3&gt;
+&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-22-maria-magdalena-liturgikon-block-2.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>Neerleggen van de Mantel van de Moeder Gods (Blachernakerk)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-15-neerleggen-mantel-moeder-gods-blachernakerk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-15-neerleggen-mantel-moeder-gods-blachernakerk/</guid><description>&lt;h3 id="tropaar-toon-4"&gt;Tropaar (Toon 4)&lt;/h3&gt;
+&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-15-neerleggen-mantel-moeder-gods-blachernakerk-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>Ontslaping van de Moeder Gods</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/08-aug/08-15-ontslaping-van-de-moeder-gods/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/08-aug/08-15-ontslaping-van-de-moeder-gods/</guid><description>&lt;h2 id="eerste-antifoon"&gt;Eerste Antifoon&lt;/h2&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-15-ontslaping-van-de-moeder-gods-block-1.svg" alt="1e antifoon weekdagen (Hemelum)" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;2e Ant.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id="tweede-antifoon"&gt;Tweede Antifoon&lt;/h2&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-15-ontslaping-van-de-moeder-gods-block-2.svg" alt="2e antifoon weekdagen (Hemelum)" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;3e Ant.&lt;/strong&gt;
+&lt;h2 id="derde-antifoon"&gt;Derde Antifoon&lt;/h2&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-15-ontslaping-van-de-moeder-gods-block-3.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;TROPARION t.1&lt;/strong&gt;
+
+&lt;h3 id="tropaar-toon-1"&gt;Tropaar (Toon 1)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-15-ontslaping-van-de-moeder-gods-block-4.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
-&lt;/p&gt;
+
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-15-ontslaping-van-de-moeder-gods-block-5.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;KONDAKION t.2&lt;/strong&gt;
+&lt;h3 id="kondak-toon-2"&gt;Kondak (Toon 2)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-15-ontslaping-van-de-moeder-gods-block-6.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
-&lt;/p&gt;
+
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-15-ontslaping-van-de-moeder-gods-block-7.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;PROKIMEN t.3&lt;/strong&gt;
+&lt;h3 id="prokimen-toon-3"&gt;Prokimen (Toon 3)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-15-ontslaping-van-de-moeder-gods-block-8.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
-&lt;/p&gt;
+
 &lt;p&gt;Machtigen heeft Hij neergehaald van de troon, maar geringen heeft Hij verheven.
 Want Hij heeft neergezien op de geringheid Zijner dienstmaagd;
 want zie, van nu af zullen alle geslachten mij zaligprijzen. &lt;em&gt;Fil. 2;5-11&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ALLELUIA&lt;/strong&gt;
-Sta op, Heer, ga in tot Uw rust: Gij en de Ark Uwer heiligheid.
+&lt;h3 id="alleluia"&gt;Alleluia&lt;/h3&gt;
+&lt;p&gt;Sta op, Heer, ga in tot Uw rust: Gij en de Ark Uwer heiligheid.
 De Heer heeft naar waarheid gezworen aan David, Hij zal het zeker gestand doen:
-Vrucht van uw lichaam zal Ik plaatsen op uw troon. &lt;em&gt;Luk. 10;38-42, 11;27-28&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Profeet Elia</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-20-profeet-elia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-20-profeet-elia/</guid><description>&lt;h3 id="tropaar"&gt;Tropaar&lt;/h3&gt;
+Vrucht van uw lichaam zal Ik plaatsen op uw troon. &lt;em&gt;Luk. 10;38-42, 11;27-28&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Profeet Elia</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-20-profeet-elia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/07-jul/07-20-profeet-elia/</guid><description>&lt;h3 id="tropaar-toon-4"&gt;Tropaar (Toon 4)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-20-profeet-elia-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 
-&lt;h2 id="kondak"&gt;Kondak&lt;/h2&gt;
+&lt;h3 id="kondak-toon-2"&gt;Kondak (Toon 2)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-07-jul-07-20-profeet-elia-block-2.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>Prokimena - weekdagen (Hemelum)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/weekdagen/prokimena-weekdagen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/weekdagen/prokimena-weekdagen/</guid><description>&lt;h2 id="prokimena---weekdagen-hemelum"&gt;Prokimena - weekdagen (Hemelum)&lt;/h2&gt;
 &lt;h3 id="maandag-ps-103-toon-4"&gt;Maandag (Ps. 103, Toon 4)&lt;/h3&gt;
 &lt;p&gt;&lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-weekdagen-prokimena-weekdagen-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
@@ -901,7 +902,7 @@ Beschut mij tegen de samenzwering der booswichten;&lt;br&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Drie {/da}{/gen} {/zijt} Gij {\in} het graf ge{\ble_}{\ven_} 
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;om {/ons} {/van} {/het} lij{\den} te ver{\los_}{\sen_}. 
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Gij {/zijt} {/ons} {/le}ven {\en} onze verrijzenis, Heer, {\e_}re zij {\U_}. [:]
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;</description></item><item><title>Tweede Antifoon - weekdagen (Hemelum)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/tweede-antifoon-weekdagen-hemelum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/tweede-antifoon-weekdagen-hemelum/</guid><description>&lt;h2 id="tweede-antifoon---weekdagen-hemelum"&gt;Tweede Antifoon - weekdagen (Hemelum)&lt;/h2&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;</description></item><item><title>Tweede Antifoon - weekdagen (Hemelum)</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/tweede-antifoon-weekdagen-hemelum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/hemelum-eigen/tweede-antifoon-weekdagen-hemelum/</guid><description>&lt;h3 id="tweede-antifoon---weekdagen-hemelum"&gt;Tweede Antifoon - weekdagen (Hemelum)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-hemelum-eigen-tweede-antifoon-weekdagen-hemelum-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;</description></item><item><title>USTAV-liturgie-met-diaken</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/ustav-liturgie-met-diaken/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/ustav-liturgie-met-diaken/</guid><description>&lt;h2 id="ustav-liturgie-met-diaken"&gt;USTAV-liturgie-met-diaken&lt;/h2&gt;
 &lt;!-- Dit hoort HTML te zijn - dat is geen fout van een generator of zo --&gt;
 &lt;div style="font-size:120%; line-height:1.4;"&gt;
@@ -943,26 +944,27 @@ Beschut mij tegen de samenzwering der booswichten;&lt;br&gt;
 
 &lt;div style="font-size:120%; line-height:1.4;"&gt;
  &lt;em&gt;(hierna volgt het Trisagion)&lt;/em&gt;
-&lt;/div&gt;</description></item><item><title>Verheerlijking op de berg Thabor</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/08-aug/08-06-verheerlijking-op-de-berg-thabor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/08-aug/08-06-verheerlijking-op-de-berg-thabor/</guid><description>&lt;p&gt;&lt;strong&gt;1e Ant. Ps.47&lt;/strong&gt;
+&lt;/div&gt;</description></item><item><title>Verheerlijking op de berg Thabor</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/08-aug/08-06-verheerlijking-op-de-berg-thabor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/feesteigen/08-aug/08-06-verheerlijking-op-de-berg-thabor/</guid><description>&lt;h2 id="eerste-antifoon-ps47"&gt;Eerste Antifoon (Ps.47)&lt;/h2&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-06-verheerlijking-op-de-berg-thabor-block-1.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2e Ant. Ps.86&lt;/strong&gt;
+
+&lt;h2 id="tweede-antifoon-ps86"&gt;Tweede Antifoon (Ps.86)&lt;/h2&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-06-verheerlijking-op-de-berg-thabor-block-2.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3e Ant. Ps.88&lt;/strong&gt;
+
+&lt;h2 id="derde-antifoon-ps88"&gt;Derde Antifoon (Ps.88)&lt;/h2&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-06-verheerlijking-op-de-berg-thabor-block-3.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;KONDAKION t.7&lt;/strong&gt;
+
+&lt;h3 id="kondak-toon-7"&gt;Kondak (Toon 7)&lt;/h3&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-06-verheerlijking-op-de-berg-thabor-block-4.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;KLEINE INTOCHT&lt;/strong&gt; (Ps.88)
-Het Noorden en de Zee hebt Gij geschapen;
+
+&lt;h2 id="kleine-intocht-ps88"&gt;Kleine Intocht (Ps.88)&lt;/h2&gt;
+&lt;p&gt;Het Noorden en de Zee hebt Gij geschapen;
 Thabor en Hermon zullen juichen om Uw Naam.
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-06-verheerlijking-op-de-berg-thabor-block-5.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PROKIMEN Ps.103, t.4&lt;/strong&gt;
+&lt;hr&gt;
+&lt;h2 id="prokimen-ps103-toon-4"&gt;Prokimen (Ps.103, Toon 4)&lt;/h2&gt;
 &lt;div class="vsa-container"&gt;&lt;img class="vsa-notation" src="https://orthodox-groningen.github.io/VSA-demo/vsa/praktijk-feesteigen-08-aug-08-06-verheerlijking-op-de-berg-thabor-block-6.svg" alt="VSA notatie" loading="lazy"&gt;&lt;/div&gt;
-&lt;/p&gt;
+
 &lt;p&gt;Gij zendt Uw Geest uit en het heelal wordt herschapen: Gij maakt nieuw het aanschijn der aarde.
 Den Heer zij roem in eeuwigheid; dat de Heer Zich verheuge over Zijn werken. &lt;em&gt;2 Petr. 1;10-19&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Vrijdag — het Heilig Kruis</title><link>https://orthodox-groningen.github.io/VSA-demo/praktijk/weekdagen/vrijdag/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://orthodox-groningen.github.io/VSA-demo/praktijk/weekdagen/vrijdag/</guid><description>&lt;!-- 
 &lt;div class="nav-buttons"&gt;&lt;a class="btn" href="../samenstellingen/antifonen-weekdagen-catalogus/"&gt;
