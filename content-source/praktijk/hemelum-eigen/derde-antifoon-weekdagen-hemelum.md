@@ -3,7 +3,7 @@ title: "Derde Antifoon - weekdagen (Hemelum)"
 source: "Hemelum (V. Jewsewy)"
 ---
 
-## Derde Antifoon - weekdagen (Hemelum)
+### Derde Antifoon - weekdagen (Hemelum)
 
 ::: vsa-notatie
 <!-- Derde Antifoon - weekdagen (Hemelum - V. Jewsewy/Liturgikon -->
@@ -34,7 +34,7 @@ Die won{/der}{/baar} zijt {\in} {/Uw} {/&\&/Hei__&~&~}{\li}{\gen~},
 <br><br><br><br><br>
 **P/D (met Evangelieboek): Wijsheid, staat allen recht**
 
-## Kleine Intocht (weekdagen-variant):
+### Kleine Intocht (weekdagen-variant):
 
 ::: vsa-notatie
 <!-- Bron: (7) Kleine Intocht, Koormap Groningen/Liturgikon — weekdagen -->

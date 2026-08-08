@@ -5,7 +5,7 @@ source: "Hemelum"
 layout: "feesteigen-pagina"
 ---
 
-### Tropaar van de Mantel van de Moeder Gods
+### Tropaar (Toon 4)
 
 ::: vsa-notatie
 <!-- Tropaar Neerleggen van de Mantel van de Moeder Gods, Toon 4 -->

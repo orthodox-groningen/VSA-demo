@@ -6,7 +6,7 @@ source-note: "Mogelijk uit 'Heiligenjaar, deel 7'"
 layout: "feesteigen-pagina"
 ---
 
-### Tropaar
+### Tropaar (Toon 4)
 
 ::: vsa-notatie
 <!-- Tropaar Profeet Elia, Toon 4 -->
@@ -19,7 +19,7 @@ Gij hebt uit den hoge uw geest gezonden op E{-&/li_&_}{\sa_} *
 en doet zo ook genezing opwellen voor allen die u ver{-&\e_&_}{/ren_} [//:]
 :::
 
-## Kondak
+### Kondak (Toon 2)
 
 ::: vsa-notatie
 <!-- Kondak Profeet Elia, Toon 2 -->

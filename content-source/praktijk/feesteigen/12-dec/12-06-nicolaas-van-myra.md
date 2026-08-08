@@ -5,7 +5,7 @@ source: "Liturgikon"
 layout: "feesteigen-pagina"
 ---
 
-### TROPARION t. 4
+### Tropaar (Toon 4)
 ::: vsa-notatie
 <!-- Tropaar H. Nicolaas van Myra, de Eerstgeroepene, Toon 4 (Liturgikon) -->
 [//:] Als de {Re_}gel {/des} ge{\loofs} 
@@ -17,7 +17,7 @@ en door ar-moe-de rijk ge{-&/wor_&_}{\den_},
 // bid Chris-tus {God_}, on-ze zie-len te {-&/red_&_}{\den_}. [//:]
 :::
 
-### KONDAKION t. 3
+### Kondak (Toon 3)
 ::: vsa-notatie
 <!-- Kondak H. Nicolaas van Myra, de Eerstgeroepene, Toon 3 (Liturgikon) -->
 [\\:] Hei-li{/ge} {/Ni}ko{\laas} {/van} {/&/My}{ra_}, 

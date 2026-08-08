@@ -6,21 +6,19 @@ source: "Liturgikon, p.270-272"
 layout: "feesteigen-pagina"
 ---
 
-**1e Ant.**
-
+## Eerste Antifoon
 :::include svg id:antifoon-1-weekdagen/liturgikon-weekdagen/Hemelum alt="1e antifoon weekdagen (Hemelum)":::
 
-**2e Ant.**
-
+## Tweede Antifoon
 :::include svg id:antifoon-2-weekdagen/liturgikon-weekdagen/Hemelum alt="2e antifoon weekdagen (Hemelum)":::
 
-**3e Ant.**
+## Derde Antifoon
 ::: vsa-notatie
 1. Ps.107 [//:] Mijn hart is bereid, o God, mijn {hart_} is be{/reid_}; *
 ik wil zingen en psalmodiëren in mijn {\Glo_}{rie_}. [//:]
 :::
 
-**TROPARION t.1**
+### Tropaar (Toon 1)
 ::: vsa-notatie
 <!-- Tropaar Ontslaping van de Moeder Gods, Toon 1 (Liturgikon, p.271) -->
 [//:] {\\Hoe}wel gij ge{/baard_} {/hebt}, {\\zijt} gij {/Maagd} {/ge}{/ble_}{ven_}, *
@@ -36,7 +34,7 @@ Gij zijt opgegaan tot het {/le_}{/ven_}, {\\o} Moe{/der} {/des} {/le_}{vens_}, *
    en de Naam des Heren {\aan_}roe{pen_}. [//:] TROPAAR
 :::
 
-**KONDAKION t.2**
+### Kondak (Toon 2)
 ::: vsa-notatie
 <!-- Kondak Ontslaping van de Moeder Gods, Toon 2 (Liturgikon, p.271) -->
 [/:] De Moeder {/Gods_}, die onvermoeibaar on{/ze} {/voor_}{\spraak_} {\is_}, *
@@ -53,7 +51,7 @@ Die {\&/eens} {/woon_}de {\in} {/Haar} {\maag_}de{\lij}ke {\schoot_}. [:]
 nu en altijd en in de eeuwen der eeuwen. {\A_}{men_}. [//:]
 :::
 
-**PROKIMEN t.3** 
+### Prokimen (Toon 3)
 ::: vsa-notatie
 <!-- PROKIMEN (Liturgikon, p247) -->
 [//:] Mijn ziel ver{/heft_} {den_} {\Heer_},
@@ -64,12 +62,12 @@ Machtigen heeft Hij neergehaald van de troon, maar geringen heeft Hij verheven.
 Want Hij heeft neergezien op de geringheid Zijner dienstmaagd; 
 want zie, van nu af zullen alle geslachten mij zaligprijzen. *Fil. 2;5-11*
 
-**ALLELUIA**
+### Alleluia
 Sta op, Heer, ga in tot Uw rust: Gij en de Ark Uwer heiligheid.
 De Heer heeft naar waarheid gezworen aan David, Hij zal het zeker gestand doen:
 Vrucht van uw lichaam zal Ik plaatsen op uw troon. *Luk. 10;38-42, 11;27-28*
 
-**PRIJSLIED** 
+## Prijslied
 ::: vsa-notatie
 <!-- Prijslied Ontslaping Moeder Gods (Liturgikon p.272) -->
 [/:] {En_}{\ge}{\len}, {/het.} {/Ont.}{/sla}pen der Al{/&\rei.&.}{\&+\ne.&.} {b/&/aan.&.}{/&\schou}{\wend_}, *
@@ -87,7 +85,7 @@ Wij, alle geslachten, prijzen {/U} {/za_}{lig_}, *
 {\&/die} {/al}{\leen_} {\&/Gods} {\Moe_}{der_} {\zijt_}. [:]
 :::
 
-**COMMUNIEVERS MOEDER GODS**
+## Communievers Moeder Gods
 ::: vsa-notatie
 <!-- Communievers Moeder Gods (Liturgikon p.90) -->
 [//:] Ik {/zal_} {\de} {\Kelk_} *

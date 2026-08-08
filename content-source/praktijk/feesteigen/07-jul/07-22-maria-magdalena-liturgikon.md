@@ -7,7 +7,7 @@ layout: "feesteigen-pagina"
 
 Variant: [Maria Magdalena (Heiligenjaar)](../07-22-maria-magdalena-heiligenjaar/).
 
-### Tropaar
+### Tropaar (Toon 1)
 
 ::: vsa-notatie
 <!-- Tropaar Maria Magdalena, Toon 1 (Liturgikon) -->
@@ -19,7 +19,7 @@ op{/dat_} {/wij_} {\\de} verge{/ving} {/der} {/zon_}{den_} *
 {\mo}gen verkrijgen door uw ge{/be__}{\den_}. [//:]
 :::
 
-## Kondak
+### Kondak (Toon 3)
 
 ::: vsa-notatie
 <!-- Kondak Maria Magdalena, Toon 3 (Liturgikon) -->

@@ -5,7 +5,7 @@ sources:
   - "Praktijk in Groningen ('Verlos ons Zoon van God')"
 ---
 
-## Eerste Antifoon - weekdagen (Hemelum)
+### Eerste Antifoon - weekdagen (Hemelum)
 
 ::: vsa-notatie
 <!-- Liturgikon, 270 -->

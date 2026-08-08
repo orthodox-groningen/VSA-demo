@@ -5,7 +5,7 @@ source: "Liturgikon"
 layout: "feesteigen-pagina"
 ---
 
-## Eerste Antifoon
+### Eerste Antifoon
 
 ::: vsa-notatie
 <!-- Liturgikon, 274 -->
@@ -27,7 +27,7 @@ refrein: [:] Door de {/ge}{/be_}den van de {\\hei}{/li}{/ge} {\Moe}{/der} {/&\&/
    {\\God} {/helpt} {/haar} bij het {\eer}{\ste} {/mor_.}gen{\licht_} [:] (refrein)
 :::
 
-## Tweede Antifoon
+### Tweede Antifoon
 
 ::: vsa-notatie
 <!-- Liturgikon, pp.270 -->
@@ -47,7 +47,7 @@ Die won{/der}{/baar} zijt {\in} {/Uw} {/&\&/Hei__&~&~}{\li}{\gen~},
    Hij heeft haar ge-ko-zen tot Zijn woonplaats. [:] (refrein)
 :::
 
-## Derde Antifoon
+### Derde Antifoon
 
 ::: vsa-notatie
 1. Ps. 131 [//:] Daar zal Ik {wo_}{/nen_},
@@ -73,7 +73,7 @@ en Hij verleent ons het eeuwige {-&/Le_&_}{\ven_}. [//:]
 nu en altijd en in de eeuwen der eeuwen. {\A_}{men_}. [//:]
 :::
 
-## TROPARION t. 4
+### Tropaar (Toon 4)
 
 ::: vsa-notatie
 <!-- Tropaar Geboorte van de Moeder Gods, Toon 4 (Liturgikon, p.274) -->
@@ -86,7 +86,7 @@ en schenkt ons Zijn {-&/ze_&_}{\gen_}.
 en Hij verleent ons het eeuwige {-&/Le_&_}{\ven_}. [//:]
 :::
 
-## KONTAKION t. 4
+### Kondak (Toon 4)
 
 ::: vsa-notatie
 [//:] Joachim en {-&/An}{\na}

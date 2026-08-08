@@ -7,6 +7,7 @@ layout: "feesteigen-pagina"
 
 **DIT IS NOG NIET COMPLEET!**
 
+### Tropaar (Toon 2)
 ::: vsa-notatie
 <!-- Tropaar Johannes de Doper, Toon 2 (Liturgikon, p 253) -->
 [/:] For{/meer}der der gehe{/le} {/&\schep_&_}{\ping_} *

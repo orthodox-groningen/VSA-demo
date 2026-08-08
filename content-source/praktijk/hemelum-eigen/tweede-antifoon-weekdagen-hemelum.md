@@ -5,7 +5,7 @@ sources:
   - "Praktijk in Groningen ('Verlos ons Zoon van God')"
 ---
 
-## Tweede Antifoon - weekdagen (Hemelum)
+### Tweede Antifoon - weekdagen (Hemelum)
 
 ::: vsa-notatie
 <!-- Liturgikon, pp.174 -->

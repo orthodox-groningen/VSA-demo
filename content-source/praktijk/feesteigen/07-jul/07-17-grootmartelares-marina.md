@@ -5,7 +5,7 @@ source: "Groningen"
 layout: "feesteigen-pagina"
 ---
 
-### Tropaar
+### Tropaar (Toon 4)
 
 ::: vsa-notatie
 <!-- Tropaar H. Marina, Toon 4 -->
@@ -18,7 +18,7 @@ ik sterf voor U om met U te {-&/le_&_}{\ven_}; *
 Door haar gebeden, Barmhartige, verlos onze {-&\zie_&_}{/len}. [//:]
 :::
 
-## Kondak
+### Kondak (Toon 3)
 
 ::: vsa-notatie
 <!-- Kondak H. Marina, Toon 3 -->

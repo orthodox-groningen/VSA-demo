@@ -5,7 +5,7 @@ source: "Hemelum"
 layout: "feesteigen-pagina"
 ---
 
-## Tropaar t. 4
+### Tropaar (Toon 4)
 
 ::: vsa-notatie
 <!-- Tropaar Geboorte van Johannes de Voorloper, Toon 4 -->
