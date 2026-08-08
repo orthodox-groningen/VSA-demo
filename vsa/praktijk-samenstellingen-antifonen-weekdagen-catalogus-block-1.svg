@@ -326,14 +326,17 @@
 <g class="vsa-unit vsa-unit-text" data-vsa-unit="24">
 <text class="vsa-text vsa-free-text" x="550.66" y="206.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">.</text>
 </g>
-<g class="vsa-unit vsa-unit-text" data-vsa-unit="26">
-<text class="vsa-text vsa-free-text" x="577.82" y="206.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">(Door</text>
+<g class="vsa-unit vsa-pitch-marker" data-vsa-unit="26">
+<line class="vsa-pitch-marker-dash" x1="572.92" y1="201.00" x2="581.92" y2="201.00" stroke="black" stroke-width="1.50" stroke-linecap="round"/>
 </g>
 <g class="vsa-unit vsa-unit-text" data-vsa-unit="28">
-<text class="vsa-text vsa-free-text" x="644.11" y="206.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">de</text>
+<text class="vsa-text vsa-free-text" x="612.22" y="206.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">(Door</text>
 </g>
 <g class="vsa-unit vsa-unit-text" data-vsa-unit="30">
-<text class="vsa-text vsa-free-text" x="679.53" y="206.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">....)</text>
+<text class="vsa-text vsa-free-text" x="678.51" y="206.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">de</text>
+</g>
+<g class="vsa-unit vsa-unit-text" data-vsa-unit="32">
+<text class="vsa-text vsa-free-text" x="713.93" y="206.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">....)</text>
 </g>
 </g>
 </g>
