@@ -43,7 +43,6 @@ Die op {/de} {/Tha_}bor ver{\heer}{/lijkt} {/zijt_},
 2. [:] O{/ver} {/u} zijn roemr{\ij}{/ke} {/din_}gen ge{\zegd_}; * 
    {\\&/gij} {/zijt} {\&\de} {/Stad__} van {\God_}. [:] Ver{//los} {\\ons}...
 
-
 3. [:] E{/l}{/ke} mens zal zeggen: {\Moe}{/der} {/Si_}{\on_}, *
    {\\want} {/de} {/mens}heid is in {\haar} {\ge}{/bo__}{\ren_}. [:] Ver{//los} {\\ons}...
 
@@ -107,15 +106,17 @@ Thabor en Hermon zullen juichen om Uw Naam.
 ## Prokimen (Ps.103, Toon 4)
 ::: vsa-notatie
 [//:] Hoe groot zijn Uw werken, o {Heer_}, * 
-Gij hebt {/&\&\al_&-&-}{/les_} met {/Wijs_}{\heid} ge{\maakt_}.
-:::
+Gij hebt {/&\&\al_&-&-}{/les_} met {/Wijs_}{\heid} ge{\maakt_}. [/:]
 
 Gij zendt Uw Geest uit en het heelal wordt herschapen: Gij maakt nieuw het aanschijn der aarde.
 Den Heer zij roem in eeuwigheid; dat de Heer Zich verheuge over Zijn werken. *2 Petr. 1;10-19*
+:::
 
 ### Alleluia (Ps.88) 
+::: vsa-notatie
 Aan U zijn de hemelen, en van U is de aarde; de wereld en haar volheid hebt Gij gegrondvest.
 Zalig is het volk dat weet te juichen; Heer, zij zullen wandelen in het Licht van Uw aanschijn. *Mt. 17;1-9*
+:::
 
 ---
 
