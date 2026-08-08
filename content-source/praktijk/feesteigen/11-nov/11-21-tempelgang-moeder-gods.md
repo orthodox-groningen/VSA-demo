@@ -7,6 +7,7 @@ layout: "feesteigen-pagina"
 
 ### TROPARION t. 4
 ::: vsa-notatie
+<!-- Tropaar Tempelgang van de Moeder Gods, Toon 4 (Liturgikon) -->
 [//:] He-den is het be-gin van Gods we-lbe{-&/ha_&_}{\gen_}: 
 {/de} voor-be-rei-den-de Ver-kon-di-ging van de Ver-los-sing der {men__}{\sen_}. 
 De Maagd komt in de {Tem_}{/pel_} {\Gods_} 
@@ -18,6 +19,7 @@ Tot haar wil-len ook wij met de En-gel {-&/roe_&_}{\pen}:
 
 ### KONDAKION t. 4
 ::: vsa-notatie
+<!-- Kondak Tempelgang van de Moeder Gods, Toon 4 (Liturgikon) -->
 [//:] De al-rei-ne Tem-pel van de Ver{-&/los_&_}{\ser_}, 
 {/het} kos-te-lijk maag-de-lijk {Bruids__}ver{\trek_}, 
 de ge-hei-lig-de Schat-ka-mer van Gods {heer_}{/lijk_}{\heid_} 

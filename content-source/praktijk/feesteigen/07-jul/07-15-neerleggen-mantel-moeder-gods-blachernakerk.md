@@ -8,7 +8,8 @@ layout: "feesteigen-pagina"
 ### Tropaar van de Mantel van de Moeder Gods
 
 ::: vsa-notatie
-T.4 [//:] Laat ons die vernederd zijn om onze {-&/zon_&_}{\den_} *
+<!-- Tropaar Neerleggen van de Mantel van de Moeder Gods, Toon 4 -->
+[//:] Laat ons die vernederd zijn om onze {-&/zon_&_}{\den_} *
 {/nu} onze toevlucht nemen en nedervallen voor de {Moe_.}der {\Gods_}, *
 en tot haar roepen uit het {diepst_} {/van} ons {\hart_}: *
 {/o} Koningin, heb medelijden en {help_} {\ons_}. *

@@ -10,7 +10,7 @@ Variant: [Maria Magdalena (Heiligenjaar)](../07-22-maria-magdalena-heiligenjaar/
 ### Tropaar
 
 ::: vsa-notatie
-<!-- Tropaar Maria Magdalena, Toon 1 -->
+<!-- Tropaar Maria Magdalena, Toon 1 (Liturgikon) -->
 [/:] {Chris_}{/tus_} {\\die} voor ons uit de {/Maagd} {/ge}{/bo_}ren {is_}, *
 {\hebt} gij nagevolgd, eerbiedwaardige Maria Magda{\le_}{\na_}, *
 door Zijn Ge{/bo_}{/den_} {\\te} {/on}{/der}{/hou_}{den_}. *
@@ -22,7 +22,7 @@ op{/dat_} {/wij_} {\\de} verge{/ving} {/der} {/zon_}{den_} *
 ## Kondak
 
 ::: vsa-notatie
-<!-- Kondak Maria Magdalena, Toon 3 -->
+<!-- Kondak Maria Magdalena, Toon 3 (Liturgikon) -->
 [\\:] Gij waart met {/de} {/Vrou}wen onder het Kruis van {\de} {/Ver}{/&/los}{ser_}, *
 en had schreiend medelijden met de Moeder des {\&\&\He_&-&-}{\ren_}. *
 Daar{/om} {/hebt} gij de hym{\ne} {/ge}{/&/zon}{gen_}: *

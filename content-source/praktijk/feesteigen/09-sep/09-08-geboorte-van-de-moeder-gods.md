@@ -53,20 +53,20 @@ Die won{/der}{/baar} zijt {\in} {/Uw} {/&\&/Hei__&~&~}{\li}{\gen~},
 1. Ps. 131 [//:] Daar zal Ik {wo_}{/nen_},
    want Ik heb haar ge{\ko_}{zen_}. [//:]
 
-<!-- Troparion -->
-refrein: [//:] Uw Geboorte, o {Moe_.}{/der} {\Gods_},
-{/heeft} de Vreugde geopenbaard aan {/heel} {\de} {\we__}{reld_}.
+<!-- Tropaar Geboorte van de Moeder Gods, Toon 4 (Liturgikon, p.274) -->
+[//:] Uw Geboorte, o {Moe_.}{/der} {\Gods_},
+{/heeft} de Vreugde geopenbaard aan heel de {\we__}{reld_}.
 Want uit U is opgegaan de Zon der Gerechtigheid: Christus {on_}{/ze} {\God_};
 {/Hij} heeft ons van de vervloeking be{\vrijd_}
 en schenkt ons Zijn {-&/ze_&_}{\gen_}.
 {/Hij} heeft de dood te{niet_.} ge{\daan_}
-en Hij {/ver}{\leent} ons het eeuwige {-&/Le_&_}{\ven_}. [//:]
+en Hij verleent ons het eeuwige {-&/Le_&_}{\ven_}. [//:]
 
 2. Ps. 45 [//:] De Aller{hoog_}{/ste_}
-   heiligt Zijn {\woon_}{tent_}. [//:] (refrein)
+   heiligt Zijn {\woon_}{tent_}. [//:] TROPAAR
 
 3. Ps. 64 [//:] Uw Tempel is {hei_}{/lig_},
-   wonderbaar in recht{\vaar_}dig{heid_}. [//:] (refrein)
+   wonderbaar in recht{\vaar_}dig{heid_}. [//:] TROPAAR
 
 <!-- Liturgikon, p175 -->
 4. [//:] Eer aan de Vader, de Zoon en de {Hei_}lige {/Geest_},
@@ -76,6 +76,7 @@ nu en altijd en in de eeuwen der eeuwen. {\A_}{men_}. [//:]
 ## TROPARION t. 4
 
 ::: vsa-notatie
+<!-- Tropaar Geboorte van de Moeder Gods, Toon 4 (Liturgikon, p.274) -->
 [//:] Uw Geboorte, o {Moe_.}{/der} {\Gods_},
 {/heeft} de Vreugde geopenbaard aan heel de {\we__}{reld_}.
 Want uit U is opgegaan de Zon der Gerechtigheid: Christus {on_}{/ze} {\God_};

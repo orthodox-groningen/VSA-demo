@@ -7,6 +7,7 @@ layout: "feesteigen-pagina"
 
 ### TROPARION t. 4
 ::: vsa-notatie
+<!-- Tropaar H. Nicolaas van Myra, de Eerstgeroepene, Toon 4 (Liturgikon) -->
 [//:] Als de {Re_}gel {/des} ge{\loofs} 
 {/en} het voor-beeld der zacht{moe__}dig{\heid_} 
 heeft de waar-heid u-wer da-den U aan uw {kud_}{/de} ge{\toond_}. 
@@ -18,6 +19,7 @@ en door ar-moe-de rijk ge{-&/wor_&_}{\den_},
 
 ### KONDAKION t. 3
 ::: vsa-notatie
+<!-- Kondak H. Nicolaas van Myra, de Eerstgeroepene, Toon 3 (Liturgikon) -->
 [\\:] Hei-li{/ge} {/Ni}ko{\laas} {/van} {/&/My}{ra_}, 
 gij zijt wer-ke-lijk de Ho-ge-pries-ter van {\&\&\Chris_&~&~}{\tus_}. 
 Vol-gens het E{/van}{/ge}lie hebt gij uw {\le}{/ven} {/&/in}ge{zet_} 

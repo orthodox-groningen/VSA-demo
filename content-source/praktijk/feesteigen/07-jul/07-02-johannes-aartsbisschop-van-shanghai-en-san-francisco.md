@@ -7,6 +7,7 @@ layout: "feesteigen-pagina"
 
 ### TROPARION t. 4
 ::: vsa-notatie
+<!-- Tropaar Geboorte van H. Johannes, Aartsbisschop van Shanghai en San Francisco, Toon 4 -->
 [//:] Als een {Re_}gel {/van} ge{\loof} 
 {/en} een voor-beeld van zacht{moe__}dig{\heid_} 
 heeft de waar-heid u-wer da-den aan uw {kud_}{/de} ge{\toond_}. 
@@ -18,6 +19,7 @@ en door ar-moe-de rijk ge{-&/wor_&_}{\den_},
 
 ### KONDAKION t. 2
 ::: vsa-notatie
+<!-- Kondak Geboorte van H. Johannes, Aartsbisschop van Shanghai en San Francisco, Toon 4 -->
 [/:] God-de-lij-ke {/Roe_}per, {/Ba}{/zuin_} {\van} de {\Geest_}
 en plan-ter {\van_} het ge{\loof_},
 {//Uit_}roei-er van {/het} {/bij_}{\ge_}{\loof_},

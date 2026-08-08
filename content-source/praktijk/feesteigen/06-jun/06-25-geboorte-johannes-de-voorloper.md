@@ -8,6 +8,7 @@ layout: "feesteigen-pagina"
 ## Tropaar t. 4
 
 ::: vsa-notatie
+<!-- Tropaar Geboorte van Johannes de Voorloper, Toon 4 -->
 [//:] Profeet en Voorloper van {Chris_}{/tus_} {\komst_},
 {/wij} zijn niet in staat u naar waarde te {lo_.}{\ven_} 
 die wij met liefde ver{-&/e_&_}{\ren_}.
