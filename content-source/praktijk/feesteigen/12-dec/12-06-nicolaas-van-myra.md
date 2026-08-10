@@ -8,7 +8,7 @@ layout: "feesteigen-pagina"
 ### Tropaar (Toon 4)
 ::: vsa-notatie
 <!-- Tropaar H. Nicolaas van Myra, de Eerstgeroepene, Toon 4 (Liturgikon) -->
-[//:] Als de {Re_}gel {/des} ge{\loofs} 
+[//:] Als de {Re_}gel {/des} ge{\loofs_} 
 {/en} het voor-beeld der zacht{moe__}dig{\heid_} 
 heeft de waar-heid u-wer da-den U aan uw {kud_}{/de} ge{\toond_}. 
 {/Daar}om zijt gij door {ne_}derigheid {\groot_}, 
