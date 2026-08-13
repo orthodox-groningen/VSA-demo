@@ -48,3 +48,4 @@ Varianten op de tussenzin:
 -   *weekdagen* : “die wonderbaar zijt in Uw heiligen”; 
 -    *zondagen* : “die opgestaan zijt uit de doden”;
 - *Moeder Gods* : “die uit de Maagd geboren zijt”.
+

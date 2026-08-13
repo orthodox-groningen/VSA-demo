@@ -60,7 +60,7 @@ Want {/&/Gij_&_} {\\zijt} {/on}{/ze} {/Hel_}{per_} *
 <!-- Liturgikon, p58 -->
 [\:] Uw {/hei_}{\lig_} {/Kruis_} *
 {/&/ver}{/e}{\ren} {/wij}, {\\o} {/&\Mees_&_}{\&/ter}; *
-{/en} Uw {\hei_}{\li_}{\&/ge} {/&/Ver}{\rij_}{\ze.}{\&/&/nis.&.&~} {\lo_}{\ven_} {/wij}. [:]
+{/en} Uw {\hei_}{\li_}{\&/ge} {/&/Ver}{\rij_}{\ze.}{\&/&/nis.&.&~} {\lo_}{\ven_} {/wij_}. [:]
 :::
 </details>
 
