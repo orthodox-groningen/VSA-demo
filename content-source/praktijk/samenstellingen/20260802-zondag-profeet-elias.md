@@ -41,7 +41,7 @@ om de zonden der wereld weg te {\ne_}{\men_}, *
 [//:] Gij waart een {En_}gel {/in} het {\vlees_} *
 {/de} grondslag der pro{fe_}{\ten_} *
 en de tweede Voorloper van {Chris_}{/tus_} {\komst_}, *
-{/roem}rijke E{li_}{\a} *
+{/roem}rijke E{li_}{\a_} *
 Gij hebt uit den hoge uw geest gezonden op E{-&/li_&_}{\sa_} *
 {/gij} verjaagt ziekten en reinigt me{laat_}{\sen_}: *
 en doet zo ook genezing opwellen voor allen die u ver{-&\e_&_}{/ren_} [//:]
