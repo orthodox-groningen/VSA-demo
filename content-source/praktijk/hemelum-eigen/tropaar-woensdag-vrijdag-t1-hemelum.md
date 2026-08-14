@@ -15,7 +15,7 @@ titel: Tropaar van de Woensdag/Vrijdag
 <!-- Hemelum: Heer red U volk en zegen Uw erfdeel, schenk aan de orthodoxe christenen de overwinning, en bescherm uw Gemeente door Uw Kruis.  -->
 ::: vsa-notatie
 <!-- Tropaar van de Woensdag en Vrijdag, Toon 1 (Hemelum) -->
-T.1 [:] Heer red Uw {/&/volk_&_} {\\en} ze{/gen} {/Uw} {/erf_}{deel_}, * 
+[:] Heer red Uw {/&/volk_&_} {\\en} ze{/gen} {/Uw} {/erf_}{deel_}, * 
 {\schenk} aan de orthodoxe christenen de over{\win_}{\ning_}, **
 {//en} bescherm uw Gemeente {/door_} {Uw_} {\Kruis_}. [//:]
 :::

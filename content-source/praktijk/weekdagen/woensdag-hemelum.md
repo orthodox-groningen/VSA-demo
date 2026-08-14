@@ -24,7 +24,7 @@ sources:
 
 ::: vsa-notatie
 <!-- Tropaar - Woensdag - H. Kruis - (Toon 1 - Hemelum, V. Jewsewy) -->
-T.1 [:] Heer red Uw {/&/volk_&_} {\\en} ze{/gen} {/Uw} {/erf_}{deel_}, * 
+[:] Heer red Uw {/&/volk_&_} {\\en} ze{/gen} {/Uw} {/erf_}{deel_}, * 
 {\schenk} schenk aan de orthodoxe christenen de over{\win_}{\ning_}, **
 {//en} bescherm uw Gemeente {/door_} {Uw_} {\Kruis_}. [//:]
 :::
@@ -62,7 +62,7 @@ Want {/&/Gij_&_} {\\zijt} {/on}{/ze} {/Hel_}{per_} *
 ::: vsa-notatie
 <!-- Liturgikon, p58 -->
 [\:] Uw {/hei_}{\lig_} {/Kruis_} *
-{/&/ver}{/e}{\ren} {/wij}, {\\o} {/&\Mees_&_}{\&/ter}; *
+{/&/ver}{/e}{\ren} {/wij}, {\\Ge} {/&\bie_&_}{\&/der}; *
 {/en} Uw {\hei_}{\li_}{\&/ge} {/&/Ver}{\rij_}{\ze.}{\&/&/nis.&.&~} {\lo_}{\ven_} {/wij_}. [:]
 :::
 </details>

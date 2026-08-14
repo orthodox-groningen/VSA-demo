@@ -41,7 +41,7 @@ Red ons die tot U zingen: Alle{/&\lu_&_}{\ia_} [/:]
 
 ::: vsa-notatie
 <!-- Tropaar van de Woensdag en Vrijdag, Toon 1 (Hemelum) -->
-T.1 [:] Heer red Uw {/&/volk_&_} {\\en} ze{/gen} {/Uw} {/erf_}{deel_}, * 
+[:] Heer red Uw {/&/volk_&_} {\\en} ze{/gen} {/Uw} {/erf_}{deel_}, * 
 <!-- {\schenk} aan de orthodoxe christenen de over{\win_}{\ning_}, ** -->
 {\schenk} de overwinning aan de orthodoxe {\chris_}te{\nen_}, ** 
 {//en} bescherm uw gemeente {/door_} {Uw_} {\kruis_}. [//:]
@@ -50,7 +50,7 @@ T.1 [:] Heer red Uw {/&/volk_&_} {\\en} ze{/gen} {/Uw} {/erf_}{deel_}, *
 #### Tropaar H. Nicolaas T.4 ***(Nls en Ksl)***
 
 ::: vsa-notatie
-T.4 [//:] Als de {Re_}gel {/des} ge{\loofs_}
+[//:] Als de {Re_}gel {/des} ge{\loofs_}
 {/en} het voor-beeld der zacht{moe__}dig{\heid_}
 heeft de waar-heid u-wer da-den U aan uw {kud_}{/de} ge{\toond_}.
 {/Daar}om zijt gij door {ne_}derigheid {\groot_},
@@ -92,7 +92,7 @@ Want {/&/Gij_&_} {\\zijt} {/on}{/ze} {/Hel_}{per_} *
 ::: vsa-notatie
 <!-- Uw Heilig Kruis vereren wij - Liturgikon, p58 -->
 [\:] Uw {/hei_}{\lig_} {/Kruis_} *
-{/&/ver}{/e}{\ren} {/wij}, {\\o} {/&\Mees_&_}{\&/ter}; *
+{/&/ver}{/e}{\ren} {/wij}, {\\Ge} {/&\bie_&_}{\&/der}; *
 {/en} Uw {\hei_}{\li_}{\&/ge} {/&/Ver}{\rij_}{\ze.}{\&/&/nis.&.&~} {\lo_}{\ven_} {/wij_}. [:]
 :::
 

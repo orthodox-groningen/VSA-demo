@@ -30,7 +30,7 @@ source: "Koorinstructie dinsdag 11 augustus 2026 (Hemelum)"
 #### Tropaar H. Nicolaas T.4 ***(Nls en Ksl)***
 
 ::: vsa-notatie
-T.4 [//:] Als de {Re_}gel {/des} ge{\loofs_}
+[//:] Als de {Re_}gel {/des} ge{\loofs_}
 {/en} het voor-beeld der zacht{moe__}dig{\heid_}
 heeft de waar-heid u-wer da-den U aan uw {kud_}{/de} ge{\toond_}.
 {/Daar}om zijt gij door {ne_}derigheid {\groot_},
@@ -43,7 +43,7 @@ en door ar-moe-de rijk ge{-&/wor_&_}{\den_},
 
 ::: vsa-notatie
 <!-- Tropaar HH. Martelaren, Toon 4 (melodie: tonenboek; tekst: Hemelum) -->
-T.4 [//:] Uw marte{la_}{/ren}, o {\Heer_}, *
+[//:] Uw marte{la_}{/ren}, o {\Heer_}, *
 {/heb}ben door hun lijden van U een onbederfelijke kroon ont{van_}{\gen_}.*
 Zij hebben, God, zich in Uw {kracht_} {/ver_}{\heugd_}, *
 {/zo}dat zij hun beulen over{won_}{\nen_}, *

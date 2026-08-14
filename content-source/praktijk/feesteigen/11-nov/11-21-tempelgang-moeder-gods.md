@@ -12,7 +12,7 @@ layout: "feesteigen-pagina"
 {/de} voor-be-rei-den-de Ver-kon-di-ging van de Ver-los-sing der {men__}{\sen_}. 
 De Maagd komt in de {Tem_}{/pel_} {\Gods_} 
 {/en} ver-kon-digt reeds aan al-len de {Chris__}{\tus_}. 
-Tot haar wil-len ook wij met de En-gel {-&/roe_&_}{\pen}: 
+Tot haar wil-len ook wij met de En-gel \{-&/roe_&_\}\{\pen_\}: 
 {/Ver}{heug__} {\U_}, 
 // Ver-vul-ling van het Heils-plan van de {-&/Schep_&_}{\per_}. [//:]
 :::

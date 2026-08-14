@@ -13,7 +13,7 @@ titel: Tropaar
 
 <!-- Hemelum: t.4 “Laat ons die vernederd zijn om onze zonden * nu onze toevlucht nemen en nedervallen voor de Moeder Gods, * en tot haar roepen uit het diepst van ons hart: * o Koningin, heb medelijden en help ons. * Haast u ons te hulp te komen * want wij zijn in gevaar * door het grote aantal onze overtredingen; * laat uw dienaren niet ledig van uw heengaan, ** want gij zijt onze enige hoop.” -->
 ::: vsa-notatie
-T.4 [//:] Laat ons die vernederd zijn om onze {-&/zon_&_}{\den_} *
+[//:] Laat ons die vernederd zijn om onze {-&/zon_&_}{\den_} *
 {/nu} onze toevlucht nemen en nedervallen voor de {Moe_.}der {\Gods_}, *
 en tot haar roepen uit het {diepst_} {/van} ons {\hart_}: *
 {/o} Koningin, heb medelijden en {help_} {\ons_}. *
