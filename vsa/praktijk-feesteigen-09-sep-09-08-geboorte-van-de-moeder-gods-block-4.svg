@@ -69,32 +69,42 @@
 <g class="vsa-unit vsa-unit-text" data-vsa-unit="9">
 <text class="vsa-text vsa-free-text" x="345.35" y="70.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">aan</text>
 </g>
-<g class="vsa-unit vsa-unit-text" data-vsa-unit="11">
-<text class="vsa-text vsa-free-text" x="392.92" y="70.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">heel</text>
-</g>
-<g class="vsa-unit vsa-unit-text" data-vsa-unit="13">
-<text class="vsa-text vsa-free-text" x="446.18" y="70.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">de</text>
-</g>
-<g class="vsa-unit vsa-unit-scope" data-vsa-unit="15">
-<text class="vsa-text vsa-sung-text" x="481.60" y="70.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">we</text>
+<g class="vsa-unit vsa-unit-scope" data-vsa-unit="11">
+<text class="vsa-text vsa-sung-text" x="392.92" y="70.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">heel</text>
 <g class="vsa-glyph-group vsa-upper-glyphs">
-<line class="vsa-glyph vsa-upper-glyph vsa-glyph-fall" x1="491.53" y1="47.57" x2="502.33" y2="52.43" stroke="black" stroke-width="1.00" stroke-linecap="round"/>
+<line class="vsa-glyph vsa-upper-glyph vsa-glyph-rise" x1="409.95" y1="52.43" x2="420.75" y2="47.57" stroke="black" stroke-width="1.00" stroke-linecap="round"/>
 </g>
 <g class="vsa-glyph-group vsa-lower-glyphs">
-<line class="vsa-glyph vsa-lower-glyph vsa-glyph-length" x1="490.33" y1="75.00" x2="503.53" y2="75.00" stroke="red" stroke-width="1.00" stroke-linecap="round"/>
-<line class="vsa-glyph vsa-lower-glyph vsa-glyph-length" x1="490.33" y1="78.20" x2="503.53" y2="78.20" stroke="red" stroke-width="1.00" stroke-linecap="round"/>
+</g>
+</g>
+<g class="vsa-unit vsa-unit-scope" data-vsa-unit="13">
+<text class="vsa-text vsa-sung-text" x="448.18" y="70.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">de</text>
+<g class="vsa-glyph-group vsa-upper-glyphs">
+<line class="vsa-glyph vsa-upper-glyph vsa-glyph-fall" x1="456.29" y1="47.57" x2="467.09" y2="52.43" stroke="black" stroke-width="1.00" stroke-linecap="round"/>
+</g>
+<g class="vsa-glyph-group vsa-lower-glyphs">
+</g>
+</g>
+<g class="vsa-unit vsa-unit-scope" data-vsa-unit="15">
+<text class="vsa-text vsa-sung-text" x="485.60" y="70.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">we</text>
+<g class="vsa-glyph-group vsa-upper-glyphs">
+<line class="vsa-glyph vsa-upper-glyph vsa-glyph-fall" x1="495.53" y1="47.57" x2="506.33" y2="52.43" stroke="black" stroke-width="1.00" stroke-linecap="round"/>
+</g>
+<g class="vsa-glyph-group vsa-lower-glyphs">
+<line class="vsa-glyph vsa-lower-glyph vsa-glyph-length" x1="494.33" y1="75.00" x2="507.53" y2="75.00" stroke="red" stroke-width="1.00" stroke-linecap="round"/>
+<line class="vsa-glyph vsa-lower-glyph vsa-glyph-length" x1="494.33" y1="78.20" x2="507.53" y2="78.20" stroke="red" stroke-width="1.00" stroke-linecap="round"/>
 </g>
 </g>
 <g class="vsa-unit vsa-unit-scope" data-vsa-unit="16">
-<text class="vsa-text vsa-sung-text" x="516.27" y="70.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">reld</text>
+<text class="vsa-text vsa-sung-text" x="520.27" y="70.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">reld</text>
 <g class="vsa-glyph-group vsa-upper-glyphs">
 </g>
 <g class="vsa-glyph-group vsa-lower-glyphs">
-<line class="vsa-glyph vsa-lower-glyph vsa-glyph-length" x1="529.85" y1="75.00" x2="543.05" y2="75.00" stroke="red" stroke-width="1.00" stroke-linecap="round"/>
+<line class="vsa-glyph vsa-lower-glyph vsa-glyph-length" x1="533.85" y1="75.00" x2="547.05" y2="75.00" stroke="red" stroke-width="1.00" stroke-linecap="round"/>
 </g>
 </g>
 <g class="vsa-unit vsa-unit-text" data-vsa-unit="17">
-<text class="vsa-text vsa-free-text" x="556.63" y="70.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">.</text>
+<text class="vsa-text vsa-free-text" x="560.63" y="70.00" xml:space="preserve" font-family="DejaVu Sans" font-size="20.00">.</text>
 </g>
 </g>
 <g class="vsa-line" data-vsa-line="3">
