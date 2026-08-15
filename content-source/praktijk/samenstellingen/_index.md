@@ -12,6 +12,7 @@ Samengestelde liturgieen en catalogus-demo's (`:::include svg id:...`).
     "Feesteigen | ../feesteigen/"
     "Hemelum    | ../hemelum-eigen/"
     "Samenstellingen | ../samenstellingen/"
+    "Diversen   | ../diversen/"
 >}}
 
 ---

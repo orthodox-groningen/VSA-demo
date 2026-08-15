@@ -10,6 +10,7 @@ title: "Feesteigen"
     "Feesteigen | ../feesteigen/"
     "Hemelum    | ../hemelum-eigen/"
     "Samenstellingen | ../samenstellingen/"
+    "Diversen   | ../diversen/"
 >}}
 
 ---

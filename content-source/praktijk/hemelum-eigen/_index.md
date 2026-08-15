@@ -15,6 +15,7 @@ Overzicht weekdag-antifonen via catalogus: [Samenstellingen - Antifonen Hemelum]
     "Feesteigen | ../feesteigen/"
     "Hemelum    | ../hemelum-eigen/"
     "Samenstellingen | ../samenstellingen/"
+    "Diversen   | ../diversen/"
 >}}
 
 ---
