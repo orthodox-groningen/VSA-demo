@@ -103,6 +103,8 @@ die op de Thabor {\\ver} {/heer_}lijkt {zijt_},
 en die U toezingen: Alle{/&\lu_&_}{\ia_} [/:]
 :::
 
+{{< pagebreak >}}
+
 ### Tropaar van het Feest (Toon 7)  ***Nls en Ksl***
 
 ::: vsa-notatie
@@ -133,9 +135,10 @@ dat Gij in waarheid zijt de {\Af_}{\glans} {\des} {/Va__}{\ders}. [\:]
 <!-- 
 #### Kondak MGods (t.6) ***alleen Ksl***
  -->
-{{< pagebreak >}}
 
 ### Trishagion/Trisvatoye
+
+{{< pagebreak >}}
 
 ### Prokimen (Ps.103, Toon 4)
 ::: vsa-notatie
