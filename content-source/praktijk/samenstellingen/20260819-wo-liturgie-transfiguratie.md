@@ -157,7 +157,7 @@ Alleluia t.4
 
 Evangelie: Mt. 17:1-9
 
----
+{{< pagebreak >}}
 
 ## Priestercommunie
 
