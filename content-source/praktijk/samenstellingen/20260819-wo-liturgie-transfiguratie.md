@@ -156,3 +156,26 @@ Apostel: 2 Petr 1:10-19
 Alleluia t.4
 
 Evangelie: Mt. 17:1-9
+
+---
+
+## Priestercommunie
+
+- de Tropaar en Kondak van het Feest,
+- Prijslied (zie hieronder, of Liturgikon p.270),
+- communievoorbereidingsgebeden en psalmlezing
+
+### Prijslied (Megalynarion)
+
+::: vsa-notatie
+<!-- Prijslied - Verheerlijking op de berg Thabor (Liturgikon, p270) -->
+[\:] {/&/Ver}{/hef_}, {\mij}{/ne} {\\ziel_}, {/&/met} {/blij}{\\de} {/zang_} *
+{Chris_}{\tus} {/de} {/&\Heer_&_}, {\&/Die.&.} {/op.} {/de.} {\&\Tha.&.}{\bor.} {\ver.}{//heer_}{\lijkt_} {\is_}. [:]
+[:] Ver{heug_} {\u}, {/Ko}{\nin}{\gin_}, *
+die {//de} {/glo}rie der maagden en der {\moe_.}{\ders} {/zijt}. *
+{/Want} ook de {meest_} {\wel}{/be}{/spraak_}{\\te} {mond_} *
+kan u niet op waardige wijze {\be}{/&\zin}{\gen_}, *
+en {//geen} {/en}kel ver{\stand_} {\is} in {/staat_} *
+{/om_} {\&/uw} {/ba__}{\\ren} te ver{staan_}. *
+Daarom verheffen wij u met een{/pa_}{\ri}ge {\stem_}. [\:]
+:::
