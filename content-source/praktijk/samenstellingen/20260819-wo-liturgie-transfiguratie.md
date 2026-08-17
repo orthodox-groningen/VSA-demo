@@ -1,11 +1,11 @@
 ---
-title: "Verheerlijking op de berg Thabor"
-feestdag: "6 aug"
-source: "Liturgikon"
-layout: "feesteigen-pagina"
+title: "Feest van de H. Transfiguratie vd Heer - Преображение, woensdag 19 aug 2026 (Hemelum)"
+source: "Koorinstructie woensdag 19 augustus 2026 (Hemelum)"
 ---
 
-## Eerste Antifoon (Ps.47)
+### Grote Ektinia
+
+### Eerste Feestantifoon (Liturgikon p.268/9)
 ::: vsa-notatie
 <!-- 1e Antifoon - Verheerlijking op de berg Thabor (Liturgikon, p268) -->
 1. Ps.47 [:] Groot is {/de} {/Heer} en al{\le} {/lof} {/waar__}{\dig_}, *
@@ -29,7 +29,11 @@ layout: "feesteigen-pagina"
    {\\nu} en {/al}{/tijd} en in de eeuwen der {\eeuw}{\en}. {/A_}{\men_}. [:]
 :::
 
-## Tweede Antifoon (Ps.86)
+#### 1e Kleine Ektinia
+
+{{< pagebreak >}}
+
+### Tweede Feestantifoon (Liturgikon p.268/9)
 ::: vsa-notatie
 <!-- 2e Antifoon - Verheerlijking op de berg Thabor (Liturgikon, p268) -->
 1. [:] {-&/Haar} {/grond}vesten zijn op de hei{\li}{/ge} {/ber__}{\gen_}, *
@@ -54,7 +58,13 @@ Die op {/de} {/Tha_}bor ver{\heer}{/lijkt} {/zijt_},
    {\\en} {/aan} {/de} {\Hei_}lige {\Geest_}. [:]
 :::
 
-## Derde Antifoon (Ps.88)
+#### Eengeboren Zoon van God ??????????
+
+#### 2e Kleine Ektinia
+
+{{< pagebreak >}}
+
+## Derde Feestantifoon (Liturgikon p.268/9)
 ::: vsa-notatie
 <!-- 3e Antifoon - Verheerlijking op de berg Thabor (Liturgikon, p268-269) -->
 1. [//:] Uw barmhartigheden, {/Heer_}, *
@@ -83,7 +93,33 @@ Gij die ons het {\Licht_} {schenkt_}, {/e}re zij {\U_}. [/:]
    nu en altijd en in de eeuwen der eeuwen. {\A_}{men_}. [//:]
 :::
 
-### Kondak (Toon 7)
+## Kleine Intocht
+
+::: vsa-notatie
+<!-- Bron: (7) Kleine Intocht, Koormap Groningen/Liturgikon — weekdagen -->
+[///:] {Komt_} laat ons aanbidden tot {\Chris_}{/tus_},
+Zoon van {God_},
+die op de Thabor {\\ver} {/heer_}lijkt {zijt_},
+en die U toezingen: Alle{/&\lu_&_}{\ia_} [/:]
+:::
+
+### Tropaar van het Feest (Toon 7)  ***Nls en Ksl***
+
+::: vsa-notatie
+<!-- Tropaar Verheerlijking op de berg Thabor, Toon 7 (Liturgikon, p.268) -->
+[/:] Gij werd ver{/&\heer}{\lijkt} op de berg, o Chris{/tus} {/God_}, *
+en aan Uw Leerlingen toonde Gij Uw {\heer_}lijk{heid_}. *
+Doe ook voor {/&\ons}, {\zon}daars, Uw eeuwig {/Licht} {/stra_}{len_}: *
+Gij die ons het {\Licht_} {schenkt_}, {/e}re zij {\U_}. [/:]
+:::
+
+::: vsa-notatie
+[:] Eer aan de Vader, de Zoon en de Heilige {Geest_} *
+    nu en altijd en in de eeuwen der eeuwen. {A_}{men_}. [:]
+:::
+
+### Kondak van het Feest (Toon 7)  ***Nls en Ksl***
+
 ::: vsa-notatie
 <!-- Kondak Verheerlijking op de berg Thabor, Toon 7 (Liturgikon, p.269) -->
 [/:] Op de {/&\berg} {\werd} Gij {/ver}{/heer_}{lijkt_}, *
@@ -94,51 +130,26 @@ en aan de {/&\we}{\reld} zouden {/ver}{/kon_}di{gen_}, *
 dat Gij in waarheid zijt de {\Af_}{\glans} {\des} {/Va__}{\ders}. [\:] 
 :::
 
-## Kleine Intocht (Ps.88) 
-Het Noorden en de Zee hebt Gij geschapen; 
-Thabor en Hermon zullen juichen om Uw Naam. 
-::: vsa-notatie
-[:] Ver{//los} {\\ons}...
-:::
+<!-- 
+#### Kondak MGods (t.6) ***alleen Ksl***
+ -->
+{{< pagebreak >}}
 
----
+### Trishagion/Trisvatoye
 
-## Prokimen (Ps.103, Toon 4)
+### Prokimen (Ps.103, Toon 4)
 ::: vsa-notatie
 [//:] Hoe groot zijn Uw werken, o {Heer_}, * 
 Gij hebt {/&\&\al_&-&-}{/les_} met {/Wijs_}{\heid} ge{\maakt_}. [/:]
 
-Gij zendt Uw Geest uit en het heelal wordt herschapen: Gij maakt nieuw het aanschijn der aarde.
-Den Heer zij roem in eeuwigheid; dat de Heer Zich verheuge over Zijn werken. *2 Petr. 1;10-19*
+Gij zendt Uw Geest uit en het heelal wordt herschapen: 
+&nbsp;&nbsp;&nbsp; Gij maakt nieuw het aanschijn der aarde.
+De Heer zij roem in eeuwigheid; 
+&nbsp;&nbsp;&nbsp; dat de Heer Zich verheuge over Zijn werken. *2 Petr. 1;10-19*
 :::
 
-### Alleluia (Ps.88) 
-::: vsa-notatie
-Aan U zijn de hemelen, en van U is de aarde; de wereld en haar volheid hebt Gij gegrondvest.
-Zalig is het volk dat weet te juichen; Heer, zij zullen wandelen in het Licht van Uw aanschijn. *Mt. 17;1-9*
-:::
+Apostel: 2 Petr 1:10-19
 
----
+Alleluia t.4
 
-## Prijslied
-::: vsa-notatie
-<!-- Prijslied - Verheerlijking op de berg Thabor (Liturgikon, p270) -->
-[\:] {/&/Ver}{/hef_}, {\mij}{/ne} {\\ziel_}, {/&/met} {/blij}{\\de} {/zang_} *
-{Chris_}{\tus} {/de} {/&\Heer_&_}, {\&/Die.&.} {/op.} {/de.} {\&\Tha.&.}{\bor.} {\ver.}{//heer_}{\lijkt_} {\is_}. [:]
-[:] Ver{heug_} {\u}, {/Ko}{\nin}{\gin_}, *
-die {//de} {/glo}rie der maagden en der {\moe_.}{\ders} {/zijt}. *
-{/Want} ook de {meest_} {\wel}{/be}{/spraak_}{\\te} {mond_} *
-kan u niet op waardige wijze {\be}{/&\zin}{\gen_}, *
-en {//geen} {/en}kel ver{\stand_} {\is} in {/staat_} *
-{/om_} {\&/uw} {/ba__}{\\ren} te ver{staan_}. *
-Daarom verheffen wij u met een{/pa_}{\ri}ge {\stem_}. [\:]
-:::
-
----
-
-## Communievers (Ps.88)
-::: vsa-notatie
-<!-- Communievers Verheerlijking op de berg Thabor (Liturgikon p.270) -->
-Heer, zij zullen wandelen in het Licht van Uw aanschijn;
-in Uw Naam juichen zij heel de dag.
-:::
+Evangelie: Mt. 17:1-9
