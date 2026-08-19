@@ -5,7 +5,7 @@ source: "Koorinstructie woensdag 19 augustus 2026 (Hemelum)"
 
 ### Grote Ektinia
 
-### Eerste Feestantifoon (Liturgikon p.268/9)
+### Eerste Feestantifoon (Liturgikon p.268/9) ***Nls***
 ::: vsa-notatie
 <!-- 1e Antifoon - Verheerlijking op de berg Thabor (Liturgikon, p268) -->
 1. Ps.47 [:] Groot is {/de} {/Heer} en al{\le} {/lof} {/waar__}{\dig_}, *
@@ -33,7 +33,7 @@ source: "Koorinstructie woensdag 19 augustus 2026 (Hemelum)"
 
 {{< pagebreak >}}
 
-### Tweede Feestantifoon (Liturgikon p.268/9)
+### Tweede Feestantifoon (Liturgikon p.268/9) ***Nls***
 ::: vsa-notatie
 <!-- 2e Antifoon - Verheerlijking op de berg Thabor (Liturgikon, p268) -->
 1. [:] {-&/Haar} {/grond}vesten zijn op de hei{\li}{/ge} {/ber__}{\gen_}, *
@@ -58,7 +58,7 @@ Die op {/de} {/Tha_}bor ver{\heer}{/lijkt} {/zijt_},
    {\\en} {/aan} {/de} {\Hei_}lige {\Geest_}. [:]
 :::
 
-#### Eengeboren Zoon van God ??????????
+#### Eengeboren Zoon van God  ***mag Ksl (Valentina)***
 
 #### 2e Kleine Ektinia
 
@@ -83,10 +83,10 @@ Gij die ons het {\Licht_} {schenkt_}, {/e}re zij {\U_}. [/:]
 ::: vsa-notatie
 <!-- Vervolg 3e Antifoon -->
 2. [//:] De Hemelen belijden Uw {won_}deren, o {/Heer_}, * 
-   en Uw waarachtigheid in de Kerk der {\Hei_}li{gen_}. [//:] TROPAAR
+   en Uw waarachtigheid in de Kerk der {\Hei_}li{gen_}. [//:]
 
 3. [//:] Zalig is het volk dat weet te {/jui__}{chen_}: * 
-   Heer, zij zullen wandelen in het Licht van Uw {\aan_}{schijn_}. [//:] TROPAAR
+   Heer, zij zullen wandelen in het Licht van Uw {\aan_}{schijn_}. [//:]
 
 <!-- Liturgikon, p175 -->
 4. [//:] Eer aan de Vader, de Zoon en de {Hei_}lige {/Geest_},
@@ -97,8 +97,7 @@ Gij die ons het {\Licht_} {schenkt_}, {/e}re zij {\U_}. [/:]
 
 ::: vsa-notatie
 <!-- Bron: (7) Kleine Intocht, Koormap Groningen/Liturgikon — weekdagen -->
-[///:] {Komt_} laat ons aanbidden tot {\Chris_}{/tus_},
-Zoon van {God_},
+[///:] {Komt_} laat ons aanbidden tot {\Chris_}{/tus_}, Zoon van {God_},
 die op de Thabor {\\ver} {/heer_}lijkt {zijt_},
 en die U toezingen: Alle{/&\lu_&_}{\ia_} [/:]
 :::
@@ -133,7 +132,7 @@ dat Gij in waarheid zijt de {\Af_}{\glans} {\des} {/Va__}{\ders}. [\:]
 :::
 
 <!-- 
-#### Kondak MGods (t.6) ***alleen Ksl***
+#### Kondak MGods (t.6) ***DOEN WE DEZE KEER NIET***
  -->
 
 ### Trishagion/Trisvatoye
@@ -144,29 +143,19 @@ dat Gij in waarheid zijt de {\Af_}{\glans} {\des} {/Va__}{\ders}. [\:]
 ::: vsa-notatie
 [//:] Hoe groot zijn Uw werken, o {Heer_}, * 
 Gij hebt {/&\&\al_&-&-}{/les_} met {/Wijs_}{\heid} ge{\maakt_}. [/:]
-
+:::
 Gij zendt Uw Geest uit en het heelal wordt herschapen: 
 &nbsp;&nbsp;&nbsp; Gij maakt nieuw het aanschijn der aarde.
 De Heer zij roem in eeuwigheid; 
 &nbsp;&nbsp;&nbsp; dat de Heer Zich verheuge over Zijn werken. *2 Petr. 1;10-19*
-:::
 
-Apostel: 2 Petr 1:10-19
+- Apostel: 2 Petr 1:10-19
+- Alleluia t.4
+- Evangelie: Mt. 17:1-9
 
-Alleluia t.4
+### Geloofsbeleidenis, gezongen ***Ksl***
 
-Evangelie: Mt. 17:1-9
-
-{{< pagebreak >}}
-
-## Priestercommunie
-
-- de Tropaar en Kondak van het Feest,
-- Prijslied (zie hieronder, of Liturgikon p.270),
-- communievoorbereidingsgebeden en psalmlezing
-
-### Prijslied (Megalynarion)
-
+### Moeder Godslied (Prijslied) ***Nls*** (Lit. p.270)
 ::: vsa-notatie
 <!-- Prijslied - Verheerlijking op de berg Thabor (Liturgikon, p270) -->
 [\:] {/&/Ver}{/hef_}, {\mij}{/ne} {\\ziel_}, {/&/met} {/blij}{\\de} {/zang_} *
@@ -179,3 +168,7 @@ en {//geen} {/en}kel ver{\stand_} {\is} in {/staat_} *
 {/om_} {\&/uw} {/ba__}{\\ren} te ver{staan_}. *
 Daarom verheffen wij u met een{/pa_}{\ri}ge {\stem_}. [\:]
 :::
+
+### Priestercommunie
+
+(1) Tropaar en Kondak, (2) Prijslied, (3) communievoorbereidingsgebeden en psalmlezing
