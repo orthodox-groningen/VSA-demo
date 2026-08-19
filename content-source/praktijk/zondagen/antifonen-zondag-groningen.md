@@ -8,7 +8,7 @@ sources:
 
 Op **zondag** worden in Slavische traditie vaak de **Typika-psalmen** (1e en 2e) en de **Zaligsprekingen** (3e) gezongen — gangbaar ook “1e/2e/3e antifoon” genoemd. Hier de koormap-scans uit **bron** via logische id (`bron:…`).
 
-Zie ook [terminologie — vier niveaus](https://github.com/orthodox-groningen/bron/blob/main/docs/specs/terminologie.md): elk nummer is een **eigen zangstuk-id** (`antifoon-1-zondag`, …), niet één zangstuk “antifoon”.
+Zie ook [terminologie — vier niveaus](https://github.com/orthodox-ronl/bron/blob/main/docs/specs/terminologie.md): elk nummer is een **eigen zangstuk-id** (`antifoon-1-zondag`, …), niet één zangstuk “antifoon”.
 
 <details>
   <summary>1e antifoon (zondag)</summary>

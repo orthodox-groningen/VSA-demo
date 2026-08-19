@@ -1,16 +1,16 @@
 ---
-description: Normatieve terminologie orthodox-groningen — lees bron, dupliceer niet
+description: Normatieve terminologie orthodox-ronl — lees bron, dupliceer niet
 alwaysApply: true
 ---
 
-# Terminologie orthodox-groningen
+# Terminologie orthodox-ronl
 
 **Canonieke glossary (alleen hier):** `bron/docs/specs/terminologie.md`
-→ https://github.com/orthodox-groningen/bron/blob/main/docs/specs/terminologie.md
+→ https://github.com/orthodox-ronl/bron/blob/main/docs/specs/terminologie.md
 
 **Dupliceer normatieve specs niet** in andere repo's — link ernaar. Alleen tool-specifieke docs horen in tool-repo's (bijv. VSA-syntax in VSA-tooling).
 
-Bindend voor docs, metadata, yaml, code-commentaar, issues en PR-teksten in **alle** repo's van github.com/orthodox-groningen.
+Bindend voor docs, metadata, yaml, code-commentaar, issues en PR-teksten in **alle** repo's van github.com/orthodox-ronl.
 
 ## Gebruiksregels (R1–R5)
 

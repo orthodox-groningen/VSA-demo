@@ -1,6 +1,6 @@
 scope:
   scopetag: vsa-demo
-  scopedir: https://github.com/orthodox-groningen/VSA-demo/tree/main
+  scopedir: https://github.com/orthodox-ronl/VSA-demo/tree/main
   curatedir: tev2-terminologie
   glossarydir: tev2-glossaries
   defaultvsn: vsa-demo
@@ -16,9 +16,9 @@ scope:
 
 scopes:
   - scopetag: bron
-    scopedir: https://github.com/orthodox-groningen/bron/tree/main/docs
+    scopedir: https://github.com/orthodox-ronl/bron/tree/main/docs
   - scopetag: vsa-tooling
-    scopedir: https://github.com/orthodox-groningen/VSA-tooling/tree/main/docs
+    scopedir: https://github.com/orthodox-ronl/VSA-tooling/tree/main/docs
 
 
 versions:

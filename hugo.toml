@@ -5,9 +5,9 @@ title = "VSA Demo"
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  linksBron = "https://orthodox-groningen.github.io/bron/"
-  linksVsaTooling = "https://orthodox-groningen.github.io/VSA-tooling/"
-  linksGithub = "https://github.com/orthodox-groningen/VSA-demo"
+  linksBron = "https://orthodox-ronl.github.io/bron/"
+  linksVsaTooling = "https://orthodox-ronl.github.io/VSA-tooling/"
+  linksGithub = "https://github.com/orthodox-ronl/VSA-demo"
 
 [markup]
   [markup.goldmark]

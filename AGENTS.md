@@ -2,8 +2,8 @@
 
 Richtlijnen voor AI-assistenten in deze repository (demo-/publicatiesite voor VSA).
 
-Organisatie-context: [bron/AGENTS.md](https://github.com/orthodox-groningen/bron/blob/main/AGENTS.md).
-Toolchain: [VSA-tooling](https://github.com/orthodox-groningen/VSA-tooling).
+Organisatie-context: [bron/AGENTS.md](https://github.com/orthodox-ronl/bron/blob/main/AGENTS.md).
+Toolchain: [VSA-tooling](https://github.com/orthodox-ronl/VSA-tooling).
 
 ---
 
@@ -26,7 +26,7 @@ Normatieve org-specs staan in **bron** — link, niet dupliceren.
 
 ## Terminologie
 
-[bron/docs/specs/terminologie.md](https://github.com/orthodox-groningen/bron/blob/main/docs/specs/terminologie.md)
+[bron/docs/specs/terminologie.md](https://github.com/orthodox-ronl/bron/blob/main/docs/specs/terminologie.md)
 
 `zangstuk-id` → `variant-id` → `uitvoeringsvorm-id` → `representatie-id`
 
@@ -65,7 +65,7 @@ is geen modelkeuze-issue; markeringen signaleren fouten in de gezongen tekst.
 Eerste keer / na tool-update:
 
 ```cmd
-cd /d C:\Git\orthodox-groningen\VSA-demo
+cd /d C:\Git\orthodox-ronl\VSA-demo
 scripts\bootstrap.cmd
 ```
 
@@ -114,8 +114,8 @@ content-source  --vsa validate-->
 
 | Branch | Doel | URL |
 | ------ | ---- | --- |
-| `main` | Productie | https://orthodox-groningen.github.io/VSA-demo/ |
-| andere | Preview | https://orthodox-groningen.github.io/VSA-demo/preview/ |
+| `main` | Productie | https://orthodox-ronl.github.io/VSA-demo/ |
+| andere | Preview | https://orthodox-ronl.github.io/VSA-demo/preview/ |
 
 Zelfde patroon als `bron` (`docs-pages.yml`). Deploy via reusable workflow in VSA-tooling.
 

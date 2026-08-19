@@ -20,7 +20,7 @@ __pycache__/
 # CI / local bron + tooling checkouts
 vendor/
 
-# Zondag-zangstukken: gesynchroniseerd uit orthodox-groningen/bron
+# Zondag-zangstukken: gesynchroniseerd uit orthodox-ronl/bron
 content-source/praktijk/zondagen/tropaar-zondag-toon-*.vsa
 content-source/praktijk/zondagen/kondak-zondag-toon-*.vsa
 content-source/praktijk/zondagen/tropaarmelodie-toon-*.jpg

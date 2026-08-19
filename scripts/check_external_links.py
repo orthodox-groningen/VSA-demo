@@ -18,7 +18,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SITE_DIR = REPO_ROOT / "generated" / "site"
 USER_AGENT = (
     "VSA-demo-external-link-check/1.0 "
-    "(+https://github.com/orthodox-groningen/VSA-demo)"
+    "(+https://github.com/orthodox-ronl/VSA-demo)"
 )
 
 

@@ -45,7 +45,7 @@ if exist vendor\VSA-tooling\pyproject.toml (
   if errorlevel 1 exit /b 1
 ) else (
   echo Installing vsa-tool[rendering] from GitHub main ...
-  "%PY%" -m pip install "vsa-tool[rendering] @ git+https://github.com/orthodox-groningen/VSA-tooling.git@main"
+  "%PY%" -m pip install "vsa-tool[rendering] @ git+https://github.com/orthodox-ronl/VSA-tooling.git@main"
   if errorlevel 1 exit /b 1
   echo NOTE: zonder lokale VSA-tooling-checkout vindt id:-resolutie mogelijk geen bron.
 )

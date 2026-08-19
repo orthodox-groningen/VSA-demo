@@ -150,7 +150,7 @@ voor dagelijks werk volstaan de `.cmd`-bestanden.
 Eerste setup, daarna preflight, daarna preview zonder opnieuw te genereren:
 
 ```cmd
-cd /d C:\Git\orthodox-groningen\VSA-demo
+cd /d C:\Git\orthodox-ronl\VSA-demo
 scripts\bootstrap.cmd
 scripts\check.cmd --strict
 scripts\serve-hugo.cmd --no-build
@@ -162,4 +162,4 @@ Open daarna http://localhost:1313/
 
 - Repo-README: [../README.md](../README.md) (structuur, Pages-URL’s)
 - Workflows: [../.github/workflows/](../.github/workflows/)
-- Org-terminologie (zangstuk, variant, …): [bron/docs/specs/terminologie.md](https://github.com/orthodox-groningen/bron/blob/main/docs/specs/terminologie.md)
+- Org-terminologie (zangstuk, variant, …): [bron/docs/specs/terminologie.md](https://github.com/orthodox-ronl/bron/blob/main/docs/specs/terminologie.md)

@@ -46,4 +46,4 @@ Build-output: `generated/`, `static/vsa/` (SVG/MXL uit generate).
 ## Zie ook
 
 - [scripts/README.md](scripts/README.md) - testladder, CI-spiegel
-- [bron: parochie-lokaal](https://github.com/orthodox-groningen/bron/blob/main/docs/manuals/parochie-lokaal-zangstukken.md)
+- [bron: parochie-lokaal](https://github.com/orthodox-ronl/bron/blob/main/docs/manuals/parochie-lokaal-zangstukken.md)

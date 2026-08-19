@@ -7,7 +7,7 @@ sources:
 
 ## Antifonen - weekdagen (Hemelum)
 
-Gestructureerd in [parochie-lokaal](https://github.com/orthodox-groningen/bron/blob/main/docs/manuals/parochie-lokaal-zangstukken.md) (`content-source/lokaal/…`); includes via **catalogus** (`id:…`).
+Gestructureerd in [parochie-lokaal](https://github.com/orthodox-ronl/bron/blob/main/docs/manuals/parochie-lokaal-zangstukken.md) (`content-source/lokaal/…`); includes via **catalogus** (`id:…`).
 
 Overzicht: [Antifonen - weekdagen (catalogus-demo)](../antifonen-weekdagen-catalogus/).
 

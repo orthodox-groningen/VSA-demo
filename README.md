@@ -1,10 +1,10 @@
 # VSA-demo
 
-Hugo-demo site voor [VSA-tooling](https://github.com/orthodox-groningen/VSA-tooling):
+Hugo-demo site voor [VSA-tooling](https://github.com/orthodox-ronl/VSA-tooling):
 Markdown + VSA-notatie → SVG → statische site (GitHub Pages).
 
-Gerelateerde documentatie: [bron](https://orthodox-groningen.github.io/bron/) ·
-[VSA-tooling](https://orthodox-groningen.github.io/VSA-tooling/)
+Gerelateerde documentatie: [bron](https://orthodox-ronl.github.io/bron/) ·
+[VSA-tooling](https://orthodox-ronl.github.io/VSA-tooling/)
 
 ## Scripts vinden
 
@@ -21,7 +21,7 @@ Bijdragen: [CONTRIBUTING.md](CONTRIBUTING.md).
 **Groen vóór commit = CI-blocking checks** (`validate.yml` / `pages.yml`).
 
 ```cmd
-cd /d C:\Git\orthodox-groningen\VSA-demo
+cd /d C:\Git\orthodox-ronl\VSA-demo
 scripts\check.cmd --strict
 ```
 
@@ -42,7 +42,7 @@ scripts\check.cmd --strict --external
 Vereist sibling-checkouts (of `vendor/`) van **bron** en **VSA-tooling**:
 
 ```text
-C:\Git\orthodox-groningen\
+C:\Git\orthodox-ronl\
   bron\
   VSA-tooling\
   VSA-demo\
@@ -51,7 +51,7 @@ C:\Git\orthodox-groningen\
 Eerste keer / na tool-update:
 
 ```cmd
-cd /d C:\Git\orthodox-groningen\VSA-demo
+cd /d C:\Git\orthodox-ronl\VSA-demo
 scripts\bootstrap.cmd
 ```
 
@@ -89,8 +89,8 @@ scripts\build-hugo.cmd
 
 - Python ≥ 3.12
 - Hugo ≥ 0.156 (vereist voor `hugo.Data` in layouts; lokaal getest met 0.160)
-- `catalogus` uit [bron](https://github.com/orthodox-groningen/bron) (via bootstrap)
-- `vsa-tool[rendering]` uit [VSA-tooling](https://github.com/orthodox-groningen/VSA-tooling)
+- `catalogus` uit [bron](https://github.com/orthodox-ronl/bron) (via bootstrap)
+- `vsa-tool[rendering]` uit [VSA-tooling](https://github.com/orthodox-ronl/VSA-tooling)
 
 ## CI-checks
 
@@ -105,8 +105,8 @@ Lokaal equivalent: `scripts\check.cmd --strict` (zie [CONTRIBUTING.md](CONTRIBUT
 
 | Branch | Doel       | URL                                                      |
 | ------ | ---------- | -------------------------------------------------------- |
-| `main` | Productie  | https://orthodox-groningen.github.io/VSA-demo/           |
-| andere | Preview    | https://orthodox-groningen.github.io/VSA-demo/preview/   |
+| `main` | Productie  | https://orthodox-ronl.github.io/VSA-demo/           |
+| andere | Preview    | https://orthodox-ronl.github.io/VSA-demo/preview/   |
 
 Elke push triggert de workflow. Productie en preview delen branch `gh-pages` (map `preview/` blijft naast de root staan).
 
